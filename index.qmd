@@ -1,0 +1,10 @@
+---
+title: "Native Population Histories"
+subtitle: "A historical database of Native peoples, populations and homelands in what is now the contiguous United States, 1500–1900"
+---
+
+Native Population Histories (NatPopHist) is a research database of the population histories of Native peoples in what is now the contiguous United States, from European contact to 1900. It brings together population estimates, historical homeland maps, documented epidemic outbreaks and records of violent conflict, drawn from published historical, demographic and ethnographic research.
+
+The reconstruction follows what colonial and ethnographic records captured, with their gaps and their outsiders' perspective. Names, territories and figures are documented to their sources, uncertainties are reported, and corrections are welcome. The database serves scholarly research; Native nations' own histories and accounts of their territories are the authoritative ones.
+
+**The first public release is planned for 2027**, together with a working paper and a report on sources, methods and validation.

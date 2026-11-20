@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+NatPopHist is an academic research project based at Universität Hamburg. It grew out of research on the historical relationship between Native depopulation and the institutions of settler society in the United States.
+
+**Planned components of the first release (2027):**
+
+- population histories of individual peoples, from contact to 1900;
+- historical homeland maps;
+- documented epidemic outbreaks;
+- recorded violent conflicts;
+- a report: *Native Population Histories: Sources, Methods and Validation*;
+- versioned data downloads with permanent identifiers.
+
+**Corrections.** A route for submitting corrections and requests for reconsideration will open with the first release.

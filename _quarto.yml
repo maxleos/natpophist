@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Native Population Histories"
+  site-url: "https://natpophist.org"
+  description: "A historical database of Native peoples, populations and homelands in what is now the contiguous United States, 1500–1900."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+  page-footer:
+    center: "Native Population Histories (NatPopHist)"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    lang: en-US
