@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - images/
 
 website:
   title: "Native Population Histories"
@@ -18,5 +20,6 @@ website:
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: false
     lang: en-US
