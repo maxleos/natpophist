@@ -5,3 +5,11 @@
 .natmap-heading { display: block; font-size: 1rem; font-weight: 600; color: #333; margin: 1.5rem 0 0.4rem; }   /* aligned with the text column */
 .natmap-open { text-align: center; font-size: 0.8rem; margin: 0.2rem 0 0; }
 .natmap-open a { color: #555; }
+
+/* Below 700px: show the stacked version of the map (maps one above the other) */
+.natmap-narrow { display: none; }
+@media (max-width: 700px) {
+  .natmap-wide { display: none; }
+  .natmap-narrow { display: block; }
+  .natmap-open .natmap-narrow { display: inline; }
+}
