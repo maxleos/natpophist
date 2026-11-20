@@ -1,7 +1,7 @@
 /* Homepage map: wide centerpiece below the reading column */
-.natmap { margin-top: 1.25rem; margin-bottom: 0.5rem; }
+.natmap { margin-top: 0; margin-bottom: 1rem; }
 .natmap-figure { margin: 0 auto; width: min(94vw, 1660px); max-width: 100%; }
 .natmap-figure img { display: block; width: 100%; height: auto; }
-.natmap-heading { caption-side: top; text-align: center; font-size: 1rem; font-weight: 600; color: #333; margin: 0 0 0.4rem; }
+.natmap-heading { display: block; font-size: 1rem; font-weight: 600; color: #333; margin: 1.5rem 0 0.4rem; }   /* aligned with the text column */
 .natmap-open { text-align: center; font-size: 0.8rem; margin: 0.2rem 0 0; }
 .natmap-open a { color: #555; }

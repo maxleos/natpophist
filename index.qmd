@@ -7,10 +7,11 @@ Native Population Histories (NatPopHist) is a research database of the populatio
 
 The reconstruction follows what colonial and ethnographic records captured, with their gaps and their outsiders' perspective. Names, territories and figures are documented to their sources, uncertainties are reported, and corrections are welcome. The database serves scholarly research; Native nations' own histories and accounts of their territories are the authoritative ones.
 
+[Estimated Native Population from contact to 1900]{.natmap-heading}
+
 ::: {.column-screen .natmap}
 ```{=html}
 <figure class="natmap-figure">
-  <figcaption class="natmap-heading">Estimated Native Population from contact to 1900</figcaption>
   <a href="images/natpophist_contact_1900.png" title="Open the full-resolution map">
     <img src="images/natpophist_contact_1900.png" width="3200" height="1600" alt="Two maps of the contiguous United States on one color scale, showing estimated Native population per square mile. At contact, about 1.3 million Native people lived across the whole area, most densely along the Pacific coast, in the Southwest, the lower Mississippi valley, Florida and the Atlantic coast. In 1900, about 270,000 people lived mostly on reservations in the West and northern Plains and in Indian Territory.">
   </a>
@@ -18,7 +19,5 @@ The reconstruction follows what colonial and ethnographic records captured, with
 </figure>
 ```
 :::
-
-***Preliminary estimates, November 2026. Subject to revision as the historical reconstruction and validation continue.***
 
 The datasets and full documentation are in preparation; the first research release is planned for 2027.
