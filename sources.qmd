@@ -2,112 +2,413 @@
 title: "Sources"
 ---
 
-The population estimates in Native Population Histories (NatPopHist) and their placement on the map draw on 554 historical, demographic and ethnographic sources. 485 supplied population figures; 69 more supplied territories, the places where peoples were counted, or the dates when peoples left a territory. Each source is listed once. Works known only through a citation in another work are listed with that work. Sources for epidemics and warfare will be added with the first data release.
+The reconstruction of Native population histories and their geographical distribution draws on 554 historical, demographic and ethnographic source references. Of these, 485 concern population estimates and 69 provide additional information on territories, historical locations and movements. Sources known only through citations in other publications are identified accordingly. Sources for epidemics and warfare will be added with the first data release.
 
-## Population figures
+## Population estimates
 
-### Works read directly
-
+- 1754 report, cited in Blu 2004, “Lumbee,” *Handbook of North American Indians*, vol. 14.
+- 1780 estimate, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
+- 1823 census, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- 1838 Report of the Commissioner for Indian Affairs, cited in Callender 1978, “Sauk,” *Handbook of North American Indians*, vol. 15.
+- 1865 census, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
+- 1870 reservation report, cited in Kroeber 1925, *Handbook of the Indians of California*.
+- 1910 U.S. Census, cited in Olmsted and Stewart 1978, “Achumawi,” *Handbook of North American Indians*, vol. 8.
+- a French officer, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Aberle 1967, cited in Aberle 1983, “Navajo Economic Development,” *Handbook of North American Indians*, vol. 10.
 - Aberle, David F. 1983. “Navajo Economic Development.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 641–658. Washington: Smithsonian Institution.
+- Aberle, Watkins, and Pitney 1940, cited in Ortiz 1979, “San Juan Pueblo,” *Handbook of North American Indians*, vol. 9.
+- agent's report, cited in Clemmer and Stewart 1986, “Treaties, Reservations, and Claims,” *Handbook of North American Indians*, vol. 11.
+- Allis (Dunbar and Allis 1918:701), cited in Parks 2001, “Arikara,” *Handbook of North American Indians*, vol. 13.
+- Alvarez, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
+- An Exact Account of the Number and Strength of all the Indian Nations, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
+- Anastasio 1955, cited in Schuster 1998, “Yakima and Neighboring Groups,” *Handbook of North American Indians*, vol. 12.
+- Armstrong, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Arny 1967, cited in Brown 1979, “Picuris Pueblo,” *Handbook of North American Indians*, vol. 9; Ellis 1979, “Isleta Pueblo,” *Handbook of North American Indians*, vol. 9; Ellis 1979, “Laguna Pueblo,” *Handbook of North American Indians*, vol. 9; Garcia-Mason 1979, “Acoma Pueblo,” *Handbook of North American Indians*, vol. 9.
+- attempted census, cited in Swanton 1952, *The Indian Tribes of North America*.
 - Bailey, Garrick A. 2001. “Osage.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 1, edited by Raymond J. DeMallie, 476–496. Washington: Smithsonian Institution.
+- Baird 1980, cited in Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
+- Bancroft, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
+- Bartram, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - Basso, Keith H. 1983. “Western Apache.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 462–488. Washington: Smithsonian Institution.
+- Baumhoff 1958, cited in Elsasser 1978, “Wiyot,” *Handbook of North American Indians*, vol. 8.
 - Bauxar, J. Joseph. 1978. “History of the Illinois Area.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 594–601. Washington: Smithsonian Institution.
+- Bean 1962-1972, cited in Bean and Smith 1978, “Serrano,” *Handbook of North American Indians*, vol. 8.
 - Bean, Lowell John, and Charles R. Smith. 1978. “Gabrielino.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 538–549. Washington: Smithsonian Institution.
 - Beckham, Stephen Dow. 1990. “History of Western Oregon Since 1846.” In *Handbook of North American Indians*, vol. 7, *Northwest Coast*, edited by Wayne Suttles, 180–188. Washington: Smithsonian Institution.
+- Benavides 1916, cited in Brown 1979, “Picuris Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Benavides 1945, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Benavides in Worth 1998, cited in Milanich 2004, “Timucua,” *Handbook of North American Indians*, vol. 14.
+- Benavides, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
+- Beverley 1705, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
+- BIA reports, Southern Pueblos Agency, cited in Sando 1979, “Jemez Pueblo,” *Handbook of North American Indians*, vol. 9.
 - Blackburn, Thomas C., and Lowell John Bean. 1978. “Kitanemuk.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 564–569. Washington: Smithsonian Institution.
+- Bolton 1910b, cited in Newcomb and Campbell 2001, “Tonkawa,” *Handbook of North American Indians*, vol. 13.
+- Bowers 1965, cited in Stewart 2001, “Hidatsa,” *Handbook of North American Indians*, vol. 13.
 - Boyce, Douglas W. 1978. “Iroquoian Tribes of the Virginia-North Carolina Coastal Plain.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 282–289. Washington: Smithsonian Institution.
+- Boyd (1985), cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*; Malouf 1998, “Flathead and Pend d'Oreille,” *Handbook of North American Indians*, vol. 12; Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
 - Boyd, Robert T. 1990. “Demographic History, 1774–1874.” In *Handbook of North American Indians*, vol. 7, *Northwest Coast*, edited by Wayne Suttles, 135–148. Washington: Smithsonian Institution.
 - Boyd, Robert T. 1998. “Demographic History Until 1990.” In *Handbook of North American Indians*, vol. 12, *Plateau*, edited by Deward E. Walker, Jr., 467–483. Washington: Smithsonian Institution.
 - Boyd, Robert. 1999. *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*. Seattle: University of Washington Press; Vancouver: UBC Press.
+- Bradbury 1904, cited in Owsley 1992, “Demography of Prehistoric and Early Historic Northern Plains Populations,” *Disease and Demography in the Americas*.
+- Bradley 1917, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
+- Brain, cited in Brain, Roth and de Reuse 2004, “Tunica, Biloxi, and Ofo,” *Handbook of North American Indians*, vol. 14.
+- Brant (1950:257), cited in Edelman and Ortiz 1979, “Tesuque Pueblo,” *Handbook of North American Indians*, vol. 9.
 - Brasser, T. J. 1978. “Mahican.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 198–212. Washington: Smithsonian Institution.
 - Brightman, Robert A., and Pamela S. Wallace. 2004. “Chickasaw.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 478–495. Washington: Smithsonian Institution.
 - Brooks, James F. 2015. “The Pestilent Serpent: Colonialism, Health, and Indigenous Demographics.” In *Beyond Germs: Native Depopulation in North America*, edited by Catherine M. Cameron, Paul Kelton, and Alan C. Swedlund, 249–262. Tucson: University of Arizona Press.
+- Brébeuf and Chaumonot, cited in White 1978, “Neutral and Wenro,” *Handbook of North American Indians*, vol. 15.
+- Buchanan (1857), cited in Elsasser 1978, “Wiyot,” *Handbook of North American Indians*, vol. 8.
+- Bureau of Indian Affairs. Kiowa Agency 1990, cited in Foster and McCollough 2001, “Plains Apache,” *Handbook of North American Indians*, vol. 13.
+- Burrows, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Burton 1936, cited in Edelman 1979, “San Ildefonso Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Byrd, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - Campbell, T. N. 1983. “Coahuiltecans and Their Neighbors.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 343–358. Washington: Smithsonian Institution.
+- Canadian and United States Departments of Indian Affairs, cited in Swanton 1952, *The Indian Tribes of North America*.
+- careful estimate (1903), cited in Kroeber 1925, *Handbook of the Indians of California*.
+- Carroll and Haggard 1942, cited in Brandt 1979, “Sandia Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Catlin, cited in Swanton 1952, *The Indian Tribes of North America*.
+- census of 1715, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- census of 1832-33, cited in Swanton 1946, *The Indians of the Southeastern United States*; Swanton 1952, *The Indian Tribes of North America*.
+- census of 1904, cited in Swanton 1952, *The Indian Tribes of North America*.
+- census, cited in Swanton 1946, *The Indians of the Southeastern United States*; Swanton 1952, *The Indian Tribes of North America*.
+- Chalfant 1933, cited in Liljeblad and Fowler 1986, “Owens Valley Paiute,” *Handbook of North American Indians*, vol. 11.
+- chapter author (Bailey 1973:109–110), cited in Bailey 2001, “Osage,” *Handbook of North American Indians*, vol. 13.
+- chapter author, cited in Shimkin 1986, “Eastern Shoshone,” *Handbook of North American Indians*, vol. 11.
+- Chesterfield House Report 1822-1823, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
 - Clifton, James A. 1978. “Potawatomi.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 725–742. Washington: Smithsonian Institution.
+- Colvocorresses 1855, cited in Hajda 1990, “Southwestern Coast Salish,” *Handbook of North American Indians*, vol. 7.
+- Concha, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
 - Conkey, Laura E., Ethel Boissevain, and Ives Goddard. 1978. “Indians of Southern New England and Long Island: Late Period.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 177–189. Washington: Smithsonian Institution.
+- Cook 1943b, cited in Grant 1978, “Chumash: Introduction,” *Handbook of North American Indians*, vol. 8; Bright 1978, “Karok,” *Handbook of North American Indians*, vol. 8; LaPena 1978, “Wintu,” *Handbook of North American Indians*, vol. 8; Johnson 1978, “Yana,” *Handbook of North American Indians*, vol. 8; Levy 1978, “Eastern Miwok,” *Handbook of North American Indians*, vol. 8; Kelly 1978, “Coast Miwok,” *Handbook of North American Indians*, vol. 8; Levy 1978, “Costanoan,” *Handbook of North American Indians*, vol. 8; Hester 1978, “Salinan,” *Handbook of North American Indians*, vol. 8.
+- Cook 1956, cited in Gould 1978, “Tolowa,” *Handbook of North American Indians*, vol. 8; Miller 1978, “Yuki, Huchnom, and Coast Yuki,” *Handbook of North American Indians*, vol. 8.
+- Cook 1974, cited in Hester 1978, “Esselen,” *Handbook of North American Indians*, vol. 8.
 - Cook, Sherburne F. 1976. *The Indian Population of New England in the Seventeenth Century*. Berkeley: University of California Press.
 - Cook, Sherburne F. 1976. *The Population of the California Indians, 1769–1970*. Berkeley: University of California Press.
+- Corbusier 1969, cited in Khera and Mariella 1983, “Yavapai,” *Handbook of North American Indians*, vol. 10.
+- Coues 1900, cited in Schwartz 1983, “Havasupai,” *Handbook of North American Indians*, vol. 10.
+- Culbertson (1952:137), cited in Parks 2001, “Arikara,” *Handbook of North American Indians*, vol. 13; DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
+- Curtis 1907-1930 (federal census of 1910), cited in Gould 1978, “Tolowa,” *Handbook of North American Indians*, vol. 8; Myers 1978, “Cahto,” *Handbook of North American Indians*, vol. 8.
+- Cushing 1882, cited in Schwartz 1983, “Havasupai,” *Handbook of North American Indians*, vol. 10.
+- Céloron, cited in Callender 1978, “Sauk,” *Handbook of North American Indians*, vol. 15.
+- D.R. Miller 1987, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
+- D.S. Brown 1966, cited in Rudes, Blumer and May 2004, “Catawba and Neighboring Groups,” *Handbook of North American Indians*, vol. 14.
+- Daniel Clark, cited in Campisi 2004, “Houma,” *Handbook of North American Indians*, vol. 14.
+- Dart 1851, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12; Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
 - Day, Gordon M. 1978. “Western Abenaki.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 148–159. Washington: Smithsonian Institution.
+- Delgado, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
 - DeMallie, Raymond J. 2004. “Tutelo and Neighboring Groups.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 286–300. Washington: Smithsonian Institution.
+- Denig 1930, 1961, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
+- Denig 1961, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
+- Dixon 1907, cited in Silver 1978, “Shastan Peoples,” *Handbook of North American Indians*, vol. 8.
+- Domínguez 1956, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Domínguez, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
+- Donald J. Lehmer (personal communication 1974), cited in Wood and Irwin 2001, “Mandan,” *Handbook of North American Indians*, vol. 13.
+- Dorsey 1892, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
+- Dorsey and Thomas 1910, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
+- Doty 1855, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
+- Dougherty 1837, cited in Wedel and Frison 2001, “Environment and Subsistence,” *Handbook of North American Indians*, vol. 13.
+- Douglas 1878, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
 - Dowd, Gregory Evans. 2004. “The American Revolution to the Mid-Nineteenth Century.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 139–151. Washington: Smithsonian Institution.
+- Dozier 1970, cited in Simmons 1979, “History of the Pueblos Since 1821,” *Handbook of North American Indians*, vol. 9; Strong 1979, “San Felipe Pueblo,” *Handbook of North American Indians*, vol. 9; Strong 1979, “Santa Ana Pueblo,” *Handbook of North American Indians*, vol. 9; Upham 1992, “Population and Spanish Contact in the Southwest,” *Disease and Demography in the Americas*.
+- Duflot de Mofras 1937, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
+- Dunkle 1958, cited in Milanich 2004, “Timucua,” *Handbook of North American Indians*, vol. 14.
+- Eells (1985:31), cited in Suttles and Lane 1990, “Southern Coast Salish,” *Handbook of North American Indians*, vol. 7.
+- Eells 1881, cited in Elmendorf 1990, “Chemakum,” *Handbook of North American Indians*, vol. 7.
+- Eells 1889, cited in Elmendorf 1990, “Chemakum,” *Handbook of North American Indians*, vol. 7.
+- Eells, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Egbert, cited in Liljeblad and Fowler 1986, “Owens Valley Paiute,” *Handbook of North American Indians*, vol. 11.
 - Eggan, Fred, and T. N. Pandey. 1979. “Zuni History, 1850–1970.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 474–481. Washington: Smithsonian Institution.
 - Ellis, Florence Hawley. 1979. “Isleta Pueblo.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 351–365. Washington: Smithsonian Institution.
 - Elsasser, Albert B. 1978. “Wiyot.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 155–163. Washington: Smithsonian Institution.
+- English census, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- estimate, cited in Levy 1978, “Eastern Miwok,” *Handbook of North American Indians*, vol. 8.
+- Ewers 1955, cited in Schuster 1998, “Yakima and Neighboring Groups,” *Handbook of North American Indians*, vol. 12.
 - Ewers, John C. 1958. *The Blackfeet: Raiders on the Northwestern Plains*. Norman: University of Oklahoma Press.
+- "Exact Account" of 1715, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
 - Ezell, Paul H. 1983. “History of the Pima.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 149–160. Washington: Smithsonian Institution.
+- Father Vivier, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- Father White, cited in Feest 1978, “Nanticoke and Neighboring Tribes,” *Handbook of North American Indians*, vol. 15.
+- Faye 1943, cited in Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
+- Feest 1973, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
 - Feest, Christian F. 1978. “Nanticoke and Neighboring Tribes.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 240–252. Washington: Smithsonian Institution.
 - Feest, Christian F. 1978. “Virginia Algonquians.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 253–270. Washington: Smithsonian Institution.
 - Feest, Johanna E., and Christian F. Feest. 1978. “Ottawa.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 772–786. Washington: Smithsonian Institution.
 - Fenton, William N., and Elisabeth Tooker. 1978. “Mohawk.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 466–480. Washington: Smithsonian Institution.
+- Fewkes 1899, cited in Stanislawski 1979, “Hopi-Tewa,” *Handbook of North American Indians*, vol. 9.
+- first agent, cited in Kroeber 1925, *Handbook of the Indians of California*.
 - Fogelson, Raymond D., ed. 2004. *Handbook of North American Indians*, vol. 14, *Southeast*. William C. Sturtevant, general editor. Washington: Smithsonian Institution.
+- Forbes 1965, cited in Bee 1983, “Quechan,” *Handbook of North American Indians*, vol. 10.
+- Foreman 1946, cited in Newcomb and Campbell 2001, “Tonkawa,” *Handbook of North American Indians*, vol. 13; Tooker 1978, “Wyandot,” *Handbook of North American Indians*, vol. 15; Callender 1978, “Sauk,” *Handbook of North American Indians*, vol. 15; Callender 1978, “Illinois,” *Handbook of North American Indians*, vol. 15.
+- Forney, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Forsyth, cited in Callender 1978, “Fox,” *Handbook of North American Indians*, vol. 15.
 - Foster, Morris W., and Martha McCollough. 2001. “Plains Apache.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 2, edited by Raymond J. DeMallie, 926–940. Washington: Smithsonian Institution.
+- Fowler 1987, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
+- Francisco Garcés, cited in Dobyns 1992, “Native American Trade Centers as Contagious Disease Foci,” *Disease and Demography in the Americas*.
+- Fray Martín Prieto, cited in McEwan 2004, “Apalachee and Neighboring Groups,” *Handbook of North American Indians*, vol. 14.
+- French missionaries and government agents, cited in Clifton 1978, “Potawatomi,” *Handbook of North American Indians*, vol. 15.
 - French, David H., and Kathrine S. French. 1998. “Wasco, Wishram, and Cascades.” In *Handbook of North American Indians*, vol. 12, *Plateau*, edited by Deward E. Walker, Jr., 360–377. Washington: Smithsonian Institution.
+- G.A. Dorsey 1904a, cited in Newcomb 2001, “Wichita,” *Handbook of North American Indians*, vol. 13.
+- Gallatin 1836, cited in Galloway and Jackson 2004, “Natchez and Neighboring Groups,” *Handbook of North American Indians*, vol. 14.
+- Gallegos Lamero, cited in Upham 1992, “Population and Spanish Contact in the Southwest,” *Disease and Demography in the Americas*.
 - Galloway, Patricia. 2004. “Chakchiuma.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 496–498. Washington: Smithsonian Institution.
+- Garcés, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Gatschet 1883, cited in Brightman 2004, “Chitimacha,” *Handbook of North American Indians*, vol. 14.
+- Gatschet, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Gen. Peter B. Porter, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- General Census of New Mexico, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
+- Gibbs (1877), cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*; Elmendorf 1990, “Chemakum,” *Handbook of North American Indians*, vol. 7; Swanton 1952, *The Indian Tribes of North America*.
+- Gibbs 1855, cited in Schuster 1998, “Yakima and Neighboring Groups,” *Handbook of North American Indians*, vol. 12; Walker and Schuster 1998, “Religious Movements,” *Handbook of North American Indians*, vol. 12.
+- Gifford 1936, cited in Khera and Mariella 1983, “Yavapai,” *Handbook of North American Indians*, vol. 10.
+- Goddard 1907a, cited in Myers 1978, “Cahto,” *Handbook of North American Indians*, vol. 8.
 - Goddard, Ives, Patricia Galloway, Marvin D. Jeter, Gregory A. Waselkov, and John E. Worth. 2004. “Small Tribes of the Western Southeast.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 174–190. Washington: Smithsonian Institution.
 - Goddard, Ives. 1978. “Mascouten.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 668–672. Washington: Smithsonian Institution.
+- Government census of 1910, cited in Kroeber 1925, *Handbook of the Indians of California*.
+- government of South Carolina, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Governor Salazar, cited in Swanton 1952, *The Indian Tribes of North America*.
 - Griffen, William B. 1983. “Southern Periphery: East.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 329–342. Washington: Smithsonian Institution.
+- Grossman 1873, cited in Harwell and Kelly 1983, “Maricopa,” *Handbook of North American Indians*, vol. 10.
+- H. Dodge 1836, cited in Fowler 2001, “Arapaho,” *Handbook of North American Indians*, vol. 13.
+- H. Hale 1885, cited in Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
 - Hackenberg, Robert A. 1983. “Pima and Papago Ecological Adaptations.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 161–177. Washington: Smithsonian Institution.
+- Hackett 1923-1937, 3, cited in Schroeder 1979, “Pueblos Abandoned in Historic Times,” *Handbook of North American Indians*, vol. 9; Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Hackett 1942, cited in Edelman 1979, “San Ildefonso Pueblo,” *Handbook of North American Indians*, vol. 9.
 - Hale, Kenneth, and David Harris. 1979. “Historical Linguistics and Archeology.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 170–177. Washington: Smithsonian Institution.
+- Hann 1986, cited in McEwan 2004, “Apalachee and Neighboring Groups,” *Handbook of North American Indians*, vol. 14.
+- Hann 1991, cited in Marquardt 2004, “Calusa,” *Handbook of North American Indians*, vol. 14.
+- Hann 1996, cited in Worth 2004, “Guale,” *Handbook of North American Indians*, vol. 14.
+- Harvey 1968, cited in Bean 1978, “Cahuilla,” *Handbook of North American Indians*, vol. 8.
+- Hayes 1929, cited in Dobyns 1992, “Native American Trade Centers as Contagious Disease Foci,” *Disease and Demography in the Americas*.
+- HBC 1838, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
 - Heizer, Robert F., ed. 1978. *Handbook of North American Indians*, vol. 8, *California*. William C. Sturtevant, general editor. Washington: Smithsonian Institution.
+- Hening 1809-1823, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
+- Henry the Younger in Gough 1988-1992, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
+- Henshaw (in Powell 1891), cited in Hester 1978, “Salinan,” *Handbook of North American Indians*, vol. 8.
 - Hester, Thomas Roy. 1978. “Esselen.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 496–499. Washington: Smithsonian Institution.
+- Hewett 1930, cited in Lambert 1979, “Pojoaque Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Hewitt (1907), cited in Swanton 1952, *The Indian Tribes of North America*.
+- Hezio, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
+- Hodge in Benavides 1945, cited in Schroeder 1979, “Pueblos Abandoned in Historic Times,” *Handbook of North American Indians*, vol. 9.
 - Hodge, Frederick Webb, ed. 1907. *Handbook of American Indians North of Mexico*. Washington: Government Printing Office. 2 parts. Bureau of American Ethnology Bulletin 30. Published 1907–1910.
 - Hodge, Frederick Webb, ed. 1907. *Handbook of American Indians North of Mexico*. Washington: Government Printing Office. Part 1. Bureau of American Ethnology Bulletin 30. <https://archive.org/details/handbookofameric01hodg>
 - Hodge, Frederick Webb, ed. 1910. *Handbook of American Indians North of Mexico*. Washington: Government Printing Office. Part 2. Bureau of American Ethnology Bulletin 30.
+- Hodgson, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - Hoebel, E. Adamson. 1979. “Zia Pueblo.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 407–417. Washington: Smithsonian Institution.
+- Hudson's Bay Company, cited in Boyd 1990, “Demographic History, 1774–1874,” *Handbook of North American Indians*, vol. 7.
+- Hudson's Bay records (Wilkes 1925-26), cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
 - Hunter, William A. 1978. “History of the Ohio Valley.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 588–593. Washington: Smithsonian Institution.
+- Iberville in Nasatir 1952, 1, cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13.
+- IHC 11, cited in Bauxar 1978, “History of the Illinois Area,” *Handbook of North American Indians*, vol. 15.
+- Indian agent tabulation recovered by Olson, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Irwin 1987, cited in Hajda 1990, “Southwestern Coast Salish,” *Handbook of North American Indians*, vol. 7.
+- Ives 1861, cited in Schwartz 1983, “Havasupai,” *Handbook of North American Indians*, vol. 10.
+- J. L'Heureaux in Dempsey 1961, cited in Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
+- J. Rowand in Hind 1859, cited in Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
+- J.B. Dunbar 1880, cited in Parks 2001, “Pawnee,” *Handbook of North American Indians*, vol. 13.
+- J.B. Truteau in Nasatir 1952, 2, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13.
+- J.O. Dorsey 1892, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13; Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
+- James Swan 1870, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
+- Jefferson 1801, cited in Goddard 1978, “Delaware,” *Handbook of North American Indians*, vol. 15; Goddard 1978, “Mascouten,” *Handbook of North American Indians*, vol. 15.
+- Jefferson, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - Jennings, Francis. 1978. “Susquehannock.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 362–367. Washington: Smithsonian Institution.
+- Jerry E. Clark, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
+- Jesuit Relations (JR 54:169, 283), cited in Tooker 1978, “Wyandot,” *Handbook of North American Indians*, vol. 15.
+- Jicarilla Apache Tribal Census Rolls, cited in Tiller 1983, “Jicarilla Apache,” *Handbook of North American Indians*, vol. 10.
+- Johnson 1715, cited in Waddell 2004, “Cusabo,” *Handbook of North American Indians*, vol. 14.
+- Johnson 7, cited in Snow 1992, “Disease and Population Decline in the Northeast,” *Disease and Demography in the Americas*.
+- Jones 1966, cited in Brown 1979, “Picuris Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Jones, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Journal of the second vessel, cited in Swanton 1952, *The Indian Tribes of North America*.
+- JP 47, cited in Palmer 1998, “Coeur d'Alene,” *Handbook of North American Indians*, vol. 12.
+- JR 55, cited in Goddard 1978, “Mascouten,” *Handbook of North American Indians*, vol. 15.
+- Kane (1951:278), cited in Parks 2001, “Arikara,” *Handbook of North American Indians*, vol. 13.
 - Kavanagh, Thomas W. 2001. “Comanche.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 2, edited by Raymond J. DeMallie, 886–906. Washington: Smithsonian Institution.
+- Keating, cited in Clifton 1978, “Potawatomi,” *Handbook of North American Indians*, vol. 15.
+- Keesing 1939, cited in Spindler 1978, “Menominee,” *Handbook of North American Indians*, vol. 15.
+- Kelsey 1906, cited in Callaghan 1978, “Lake Miwok,” *Handbook of North American Indians*, vol. 8.
+- Kelsey 1971, cited in Silver 1978, “Shastan Peoples,” *Handbook of North American Indians*, vol. 8.
 - Kendall, Martha B. 1983. “Yuman Languages.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 4–12. Washington: Smithsonian Institution.
+- Kidder 1958, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Kinietz 1940, cited in Callender 1978, “Miami,” *Handbook of North American Indians*, vol. 15.
+- Kirkland 1764-1804, cited in Abler and Tooker 1978, “Seneca,” *Handbook of North American Indians*, vol. 15.
+- Kniffen (1928:299), cited in Olmsted and Stewart 1978, “Achumawi,” *Handbook of North American Indians*, vol. 8.
+- Kroeber (1907c), cited in Silver 1978, “Chimariko,” *Handbook of North American Indians*, vol. 8.
+- Kroeber 1957a, cited in Bright 1978, “Karok,” *Handbook of North American Indians*, vol. 8.
+- Kroeber, A. L. 1939. Cultural and Natural Areas of Native North America. Berkeley, cited in Clifton 1978, “Potawatomi,” *Handbook of North American Indians*, vol. 15.
 - Kroeber, Alfred L. 1925. *Handbook of the Indians of California*. Washington: Government Printing Office. Bureau of American Ethnology Bulletin 78. <https://archive.org/details/bulletin781925smit/page/883/mode/1up>
+- L. Cass in Schoolcraft 1851-1857, 3, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13; Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
+- La Harpe, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - Lambert, Marjorie F. 1979. “Pojoaque Pueblo.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 324–329. Washington: Smithsonian Institution.
+- Lane, cited in Swanton 1952, *The Indian Tribes of North America*.
 - Lankford, George E. 2004. “Chacato, Pensacola, Tohomé, Naniaba, and Mobila.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 664–668. Washington: Smithsonian Institution.
+- Larocque 1910, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
 - Lehmer, Donald J. 2001. “Plains Village Tradition: Postcontact.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 1, edited by Raymond J. DeMallie, 245–255. Washington: Smithsonian Institution.
+- Leroux, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Letters Received by OIA, cited in Landy 1978, “Tuscarora Among the Iroquois,” *Handbook of North American Indians*, vol. 15.
 - Levy, Jerrold E. 2001. “Kiowa.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 2, edited by Raymond J. DeMallie, 907–925. Washington: Smithsonian Institution.
 - Levy, Richard. 1978. “Eastern Miwok.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 398–413. Washington: Smithsonian Institution.
+- Lewis 1832:709 (table 1), cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
+- Lewis and Clark (via Michelson 1919), cited in Swanton 1952, *The Indian Tribes of North America*.
+- Lewis and Clark 1806:26, 1814, 1, cited in Stewart 2001, “Hidatsa,” *Handbook of North American Indians*, vol. 13.
+- Lewis and Clark in Moulton 1983-, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13; Foster and McCollough 2001, “Plains Apache,” *Handbook of North American Indians*, vol. 13.
+- Lewis and Clark, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*; Lahren 1998, “Kalispel,” *Handbook of North American Indians*, vol. 12; Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12; Swanton 1952, *The Indian Tribes of North America*.
+- Lewis and Clark, Codex I, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
 - Liebmann, Matthew J., Joshua Farella, Christopher I. Roos, Adam Stack, Sarah Martini, and Thomas W. Swetnam. 2016. “Native American Depopulation, Reforestation, and Fire Regimes in the Southwest United States, 1492–1900 CE.” *Proceedings of the National Academy of Sciences* 113 (6): E696–E704. doi:10.1073/pnas.1521744113
 - Liljeblad, Sven, and Catherine S. Fowler. 1986. “Owens Valley Paiute.” In *Handbook of North American Indians*, vol. 11, *Great Basin*, edited by Warren L. d'Azevedo, 412–434. Washington: Smithsonian Institution.
+- Logan 1862, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
+- Long in Keating 1825, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
+- Lord Culpeper, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
+- Loud (1918), cited in Elsasser 1978, “Wiyot,” *Handbook of North American Indians*, vol. 8.
 - Lurie, Nancy Oestreich. 1978. “Winnebago.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 690–707. Washington: Smithsonian Institution.
+- Lydekker 1938, cited in Snow 1992, “Disease and Population Decline in the Northeast,” *Disease and Demography in the Americas*.
+- M'Gillivray in Milloy 1988, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
+- M.H. Wright 1951, cited in Opler 2001, “Lipan Apache,” *Handbook of North American Indians*, vol. 13; Callender 1978, “Shawnee,” *Handbook of North American Indians*, vol. 15.
+- Mackenzie in Lamb 1970, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
 - Malouf, Carling I. 1998. “Flathead and Pend d'Oreille.” In *Handbook of North American Indians*, vol. 12, *Plateau*, edited by Deward E. Walker, Jr., 297–312. Washington: Smithsonian Institution.
+- Marbury (1792), cited in Swanton 1952, *The Indian Tribes of North America*.
 - Marquardt, William H. 2004. “Calusa.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 204–212. Washington: Smithsonian Institution.
+- Marston 1912, cited in Callender 1978, “Sauk,” *Handbook of North American Indians*, vol. 15.
+- Matlock in Schoolcraft 1851-1857, 6, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
+- McLoughlin 1993, cited in King 2004, “Cherokee in the West: History Since 1776,” *Handbook of North American Indians*, vol. 14.
+- Menchero, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
+- MHSC ser. 1, 5, cited in Landy 1978, “Tuscarora Among the Iroquois,” *Handbook of North American Indians*, vol. 15.
+- Michelson (1919), after Lewis and Clark, cited in Swanton 1952, *The Indian Tribes of North America*.
 - Milanich, Jerald T. 2004. “Early Groups of Central and South Florida.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 213–218. Washington: Smithsonian Institution.
 - Milanich, Jerald T. 2004. “Timucua.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 219–228. Washington: Smithsonian Institution.
+- Mission Records, cited in Bean and Shipek 1978, “Luiseño,” *Handbook of North American Indians*, vol. 8.
+- Mitchell in Schoolcraft 1851-1857, 6, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
+- Mooney 1896, cited in Parks 2001, “Kitsai,” *Handbook of North American Indians*, vol. 13.
+- Mooney 1907, cited in Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13.
+- Mooney 1910, cited in Newcomb 2001, “Wichita,” *Handbook of North American Indians*, vol. 13.
+- Mooney and Thomas, cited in Cook 1976, *The Indian Population of New England in the Seventeenth Century*.
+- Mooney, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15; Swanton 1946, *The Indians of the Southeastern United States*; Swanton 1952, *The Indian Tribes of North America*.
 - Mooney, James. 1928. *The Aboriginal Population of America North of Mexico*. Washington: Smithsonian Institution. Smithsonian Miscellaneous Collections 80(7). <https://archive.org/details/smithsonianmisce801928smit/page/3/mode/1up>
+- Mooney; chapter author, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- Morse, cited in Swanton 1952, *The Indian Tribes of North America*.
 - Morse, Jedidiah. 1822. *A Report to the Secretary of War of the United States on Indian Affairs*. New Haven: S. Converse. <https://archive.org/details/reporttosecretar00mors>
+- Mr. Purcell, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
+- native estimate, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Neighbors (Winfrey and Day 1959-1966), cited in Opler 2001, “Lipan Apache,” *Handbook of North American Indians*, vol. 13; Newcomb and Campbell 2001, “Tonkawa,” *Handbook of North American Indians*, vol. 13.
+- New Mexico Census, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
 - Newcomb, William W., Jr. 1983. “Karankawa.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 359–367. Washington: Smithsonian Institution.
 - Newcomb, William W., Jr., and Thomas N. Campbell. 2001. “Tonkawa.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 2, edited by Raymond J. DeMallie, 953–964. Washington: Smithsonian Institution.
+- Newell 1959:150–151; calculated by Stern, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
+- Newell, cited in Sprague 1998, “Palouse,” *Handbook of North American Indians*, vol. 12.
+- O'Callaghan, E. B., ed. 1856. Documents Relative to the Colonial History of the State of New-York, vol. 7. Albany: Weed, Parsons, cited in Landy 1978, “Tuscarora Among the Iroquois,” *Handbook of North American Indians*, vol. 15.
+- official count of 1905, cited in Swanton 1952, *The Indian Tribes of North America*.
+- official figure, cited in Swanton 1952, *The Indian Tribes of North America*.
+- official reports, cited in Swanton 1952, *The Indian Tribes of North America*.
+- official return 1906, cited in Swanton 1952, *The Indian Tribes of North America*.
 - Opler, Morris E. 1983. “Chiricahua Apache.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 401–418. Washington: Smithsonian Institution.
 - Opler, Morris E. 1983. “Mescalero Apache.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 419–439. Washington: Smithsonian Institution.
 - Opler, Morris E. 2001. “Lipan Apache.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 2, edited by Raymond J. DeMallie, 941–952. Washington: Smithsonian Institution.
+- P.B. Porter in Schoolcraft 1851–1857, 3, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13; Schweitzer 2001, “Otoe and Missouria,” *Handbook of North American Indians*, vol. 13.
+- P.H. Wood 1989, cited in Dowd 2004, “The American Revolution to the Mid-Nineteenth Century,” *Handbook of North American Indians*, vol. 14; Brightman and Wallace 2004, “Chickasaw,” *Handbook of North American Indians*, vol. 14; Galloway and Kidwell 2004, “Choctaw in the East,” *Handbook of North American Indians*, vol. 14.
+- P.H. Wood, cited in Thornton 2004, “Demographic History,” *Handbook of North American Indians*, vol. 14.
+- P.M. Butler and M.G. Lewis 1846, cited in Kavanagh 2001, “Comanche,” *Handbook of North American Indians*, vol. 13.
+- Palliser in Ray 1974, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
+- Palmer 1981, cited in Palmer 1998, “Coeur d'Alene,” *Handbook of North American Indians*, vol. 12.
+- Parker 1837, 1844, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
+- Perez de Luxan, cited in Upham 1992, “Population and Spanish Contact in the Southwest,” *Disease and Demography in the Americas*.
+- Pike 1810, Pt. 2 [Appendix], cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13; Parks 2001, “Pawnee,” *Handbook of North American Indians*, vol. 13.
+- Pike in D.D. Jackson 1965, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
+- Porter, cited in Swanton 1952, *The Indian Tribes of North America*.
+- Powell (1891), cited in Kendall 1990, “Takelma,” *Handbook of North American Indians*, vol. 7.
+- Purcell, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- R.C. White 1963, cited in Bean and Shipek 1978, “Luiseño,” *Handbook of North American Indians*, vol. 8.
+- Ramsey 1849, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
+- Ray (1932), cited in Swanton 1952, *The Indian Tribes of North America*.
+- Ray 1959:11; calculated by Stern, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
+- Raymond 1854, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
+- Real Alencaster, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
 - Riddell, Francis A. 1978. “Maidu and Konkow.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 370–386. Washington: Smithsonian Institution.
+- Rountree 1973a, cited in Boyce 1978, “Iroquoian Tribes of the Virginia-North Carolina Coastal Plain,” *Handbook of North American Indians*, vol. 15.
+- Rubín de Celís, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
 - Salwen, Bert. 1978. “Indians of Southern New England and Long Island: Early Period.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 160–176. Washington: Smithsonian Institution.
+- Samuel Parker, cited in Sprague 1998, “Palouse,” *Handbook of North American Indians*, vol. 12.
 - Saunt, Claudio. 2004. “History Until 1776.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 128–138. Washington: Smithsonian Institution.
+- Schermerhorn 1814, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13; Wedel 2001, “Iowa,” *Handbook of North American Indians*, vol. 13; Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13; Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
+- Schermerhorn, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- Schoolcraft 1851-1857, cited in Sturtevant 1998, *Handbook of North American Indians*, vol. 12; Beckham 1998, “History Since 1846,” *Handbook of North American Indians*, vol. 12; Parks 2001, “Kitsai,” *Handbook of North American Indians*, vol. 13; Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13; Boyce 1978, “Iroquoian Tribes of the Virginia-North Carolina Coastal Plain,” *Handbook of North American Indians*, vol. 15.
+- Schoolcraft, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - Schoolcraft, Henry R. 1847. *Notes on the Iroquois*. Albany: Erastus H. Pease. <https://archive.org/details/notesoniroquoiso00scho>
 - Schroeder, Albert H. 1979. “Pueblos Abandoned in Historic Times.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 236–254. Washington: Smithsonian Institution.
+- Shipek 1971, cited in Bean 1978, “Cahuilla,” *Handbook of North American Indians*, vol. 8.
 - Shipley, William F. 1978. “Native Languages of California.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 80–90. Washington: Smithsonian Institution.
+- Sibley, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - Simmons, Marc. 1979. “History of Pueblo-Spanish Relations to 1821.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 178–193. Washington: Smithsonian Institution.
 - Simmons, Marc. 1979. “History of the Pueblos Since 1821.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 206–223. Washington: Smithsonian Institution.
+- Simms 1877a, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
+- Simon Fraser (Lamb 1960:86-97), cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
+- Smith 1612, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
+- [Smith, William]. 1766. An Historical Account of the Expedition against the Ohio Indians in the Year 1764 under the Command of Henry Bouquet. Philadelphia (1868 Cincinnati reprint consulted as well), cited in Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
 - Snow, Dean R. 1978. “Eastern Abenaki.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 137–147. Washington: Smithsonian Institution.
 - Snow, Dean R. 1995. “Microchronology and Demographic Evidence Relating to the Size of Pre-Columbian North American Indian Populations.” *Science* 268: 1601–1604.
 - Snow, Dean R. 1996. “Mohawk Demography and the Effects of Exogenous Epidemics on American Indian Populations.” *Journal of Anthropological Archaeology* 15 (2): 160–182.
+- Spanish entradas (Oñate), cited in Schroeder 1979, “Pueblos Abandoned in Historic Times,” *Handbook of North American Indians*, vol. 9.
+- Spanish figures (Gibson 1963), cited in Callender, Pope and Pope 1978, “Kickapoo,” *Handbook of North American Indians*, vol. 15.
+- Spanish report to governor of West Florida and Louisiana, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
+- Spanish, Mexican, and American censuses (Bailey and Bailey 1986), cited in Brooks 2015, “The Pestilent Serpent: Colonialism, Health, and Indigenous Demographics,” *Beyond Germs: Native Depopulation in North America*.
+- Spaulding 1953, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
+- Speck (1916, 1924), cited in Feest 1978, “North Carolina Algonquians,” *Handbook of North American Indians*, vol. 15.
+- Speck 1909, Ethnology of the Yuchi Indians, cited in Swanton 1952, *The Indian Tribes of North America*.
 - Speck, Frank G. 1915. *The Nanticoke Community of Delaware*. New York: Museum of the American Indian, Heye Foundation. Contributions from the Museum of the American Indian, Heye Foundation 2(4). <https://archive.org/details/nanticokecommuni00spec>
+- Spier and Sapir (via French), cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
+- St. Jean 2000, cited in Brightman and Wallace 2004, “Chickasaw,” *Handbook of North American Indians*, vol. 14.
+- St. John 1859, cited in Harwell and Kelly 1983, “Maricopa,” *Handbook of North American Indians*, vol. 10.
 - Stanislawski, Michael B. 1979. “Hopi-Tewa.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 587–602. Washington: Smithsonian Institution.
 - Stern, Theodore. 1998. “Cayuse, Umatilla, and Walla Walla.” In *Handbook of North American Indians*, vol. 12, *Plateau*, edited by Deward E. Walker, Jr., 395–419. Washington: Smithsonian Institution.
 - Stern, Theodore. 1998. “Klamath and Modoc.” In *Handbook of North American Indians*, vol. 12, *Plateau*, edited by Deward E. Walker, Jr., 446–466. Washington: Smithsonian Institution.
+- Stevens 1983, cited in Paredes 2004, “Creek in the East Since Removal,” *Handbook of North American Indians*, vol. 14.
+- Steward 1938, cited in Leland 1986, “Population,” *Handbook of North American Indians*, vol. 11.
+- Stewart 1975:78-80, 1975a, cited in Stewart 2001, “Hidatsa,” *Handbook of North American Indians*, vol. 13.
 - Stewart, Kenneth M. 1983. “Yumans: Introduction.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 1–3. Washington: Smithsonian Institution.
+- Stirling 1916, cited in Callender 1978, “Illinois,” *Handbook of North American Indians*, vol. 15.
+- Stuart 1935, cited in Hajda 1990, “Southwestern Coast Salish,” *Handbook of North American Indians*, vol. 7.
 - Suttles, Wayne, and Barbara Lane. 1990. “Southern Coast Salish.” In *Handbook of North American Indians*, vol. 7, *Northwest Coast*, edited by Wayne Suttles, 485–502. Washington: Smithsonian Institution.
+- Swan 1857, cited in Hajda 1990, “Southwestern Coast Salish,” *Handbook of North American Indians*, vol. 7.
+- Swan 1859–1866: item for Oct. 25, 1860, cited in Elmendorf 1990, “Chemakum,” *Handbook of North American Indians*, vol. 7.
+- Swanton 1942, cited in Rogers and Sabo 2004, “Caddo,” *Handbook of North American Indians*, vol. 14.
 - Swanton, John R. 1946. *The Indians of the Southeastern United States*. Washington: Government Printing Office. Bureau of American Ethnology Bulletin 137. <https://archive.org/details/bulletin137smit/page/105/mode/1up>
 - Swanton, John R. 1952. *The Indian Tribes of North America*. Washington: Government Printing Office. Bureau of American Ethnology Bulletin 145. <https://archive.org/details/indiantribesofno00swan>
+- T. Heron in Chesterfield House [Journals] 1823, cited in Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
+- T. Murphy 1867, cited in Foster and McCollough 2001, “Plains Apache,” *Handbook of North American Indians*, vol. 13.
+- Tamarón y Romeral 1954, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Tamarón, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
+- Tatum 1870, cited in Kavanagh 2001, “Comanche,” *Handbook of North American Indians*, vol. 13.
+- Teit (1909:466, 1900:175, 1906:199), cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
+- Teit 1930, cited in Malouf 1998, “Flathead and Pend d'Oreille,” *Handbook of North American Indians*, vol. 12.
+- Teit, cited in Malouf 1998, “Flathead and Pend d'Oreille,” *Handbook of North American Indians*, vol. 12; Swanton 1952, *The Indian Tribes of North America*.
+- Thomas 1932, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9; Ellis 1979, “Laguna Pueblo,” *Handbook of North American Indians*, vol. 9.
+- Thornton 1990, cited in Thornton 2004, “Demographic History,” *Handbook of North American Indians*, vol. 14.
 - Thornton, Russell. 1987. *American Indian Holocaust and Survival: A Population History since 1492*. Norman: University of Oklahoma Press.
+- Thwaites, Reuben Gold, ed. 1904. Early Western Travels 1748-1846, vol. 1. Cleveland: Arthur H. Clark, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12; Parks 2001, “Pawnee,” *Handbook of North American Indians*, vol. 13; Boyd 1990, “Demographic History, 1774–1874,” *Handbook of North American Indians*, vol. 7; Seaburg and Miller 1990, “Tillamook,” *Handbook of North American Indians*, vol. 7; Zenk 1990, “Siuslawans and Coosans,” *Handbook of North American Indians*, vol. 7.
 - Tiller, Veronica E. 1983. “Jicarilla Apache.” In *Handbook of North American Indians*, vol. 10, *Southwest*, edited by Alfonso Ortiz, 440–461. Washington: Smithsonian Institution.
+- Tooker 1978, cited in Snow 1992, “Disease and Population Decline in the Northeast,” *Disease and Demography in the Americas*.
+- Treaty estimates, cited in Boyd 1990, “Demographic History, 1774–1874,” *Handbook of North American Indians*, vol. 7.
 - Trigger, Bruce G. 1978. “Early Iroquoian Contacts with Europeans.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 344–356. Washington: Smithsonian Institution.
 - Trigger, Bruce G., and James F. Pendergast. 1978. “Saint Lawrence Iroquoians.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 357–361. Washington: Smithsonian Institution.
 - Trigger, Bruce G., ed. 1978. *Handbook of North American Indians*, vol. 15, *Northeast*. William C. Sturtevant, general editor. Washington: Smithsonian Institution.
+- Twitchell 1911-1917, 1, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
+- U.S. Army census (U.S. Congress. Senate 1936:142), cited in McGuire 1983, “Walapai,” *Handbook of North American Indians*, vol. 10.
+- U.S. Bureau of Indian Affairs (1888-1940), cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
+- U.S. Bureau of Indian Affairs 1854-1871 Records, cited in Arnon and Hill 1979, “Santa Clara Pueblo,” *Handbook of North American Indians*, vol. 9.
+- U.S. Bureau of the Census, cited in Leland 1986, “Population,” *Handbook of North American Indians*, vol. 11; Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
 - U.S. Bureau of the Census. 1915. *Indian Population in the United States and Alaska, 1910*. Washington: Government Printing Office. PDF pp. 7, 9. <https://www2.census.gov/library/publications/decennial/1910/indian-population/indian-population-p2.pdf>
+- U.S. Census Office 1893, cited in Bodine 1979, “Taos Pueblo,” *Handbook of North American Indians*, vol. 9.
 - U.S. Census Office [Porter, Robert P., Thomas Donaldson et al.]. 1894. *Report on Indians Taxed and Indians Not Taxed in the United States (except Alaska) at the Eleventh Census: 1890*. Washington: Government Printing Office. <https://www2.census.gov/library/publications/decennial/1890/volume-10/>
+- U.S. Census Office, cited in Garcia-Mason 1979, “Acoma Pueblo,” *Handbook of North American Indians*, vol. 9.
+- U.S. Census Office. 1883. Tenth Census of the United States, 1880. Washington, cited in Miller 1978, “Yuki, Huchnom, and Coast Yuki,” *Handbook of North American Indians*, vol. 8; Bean and Shipek 1978, “Luiseño,” *Handbook of North American Indians*, vol. 8.
 - U.S. Census Office. 1901. *Twelfth Census of the United States, 1900: Population*. Washington: U.S. Census Office. Published 1901–1902.
+- U.S. census, cited in Swanton 1946, *The Indians of the Southeastern United States*.
+- U.S. Office of Indian Affairs. 1835. Annual Report of the Commissioner of Indian Affairs for the Year 1835. Washington: GPO, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13; Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
+- U.S. Office of Indian Affairs. 1837. Annual Report of the Commissioner of Indian Affairs for the Year 1837. Washington: GPO, cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13; Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13.
+- U.S. Office of Indian Affairs. 1841. Annual Report of the Commissioner of Indian Affairs for the Year 1841. Washington: GPO, cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13.
 - U.S. Office of Indian Affairs. 1842. *Annual Report of the Commissioner of Indian Affairs for the Year 1842*. Washington: Government Printing Office. <https://archive.org/details/1826-report-from-the-indian-office>
 - U.S. Office of Indian Affairs. 1849. *Annual Report of the Commissioner of Indian Affairs for the Year 1849*. Washington: Government Printing Office. <https://archive.org/details/1826-report-from-the-indian-office>
+- U.S. Office of Indian Affairs. 1853. Annual Report of the Commissioner of Indian Affairs for the Year 1853. Washington: GPO, cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13.
 - U.S. Office of Indian Affairs. 1854. *Annual Report of the Commissioner of Indian Affairs for the Year 1854*. Washington: Government Printing Office. <https://archive.org/details/annualreportcom48unkngoog>
+- U.S. Office of Indian Affairs. 1857. Annual Report of the Commissioner of Indian Affairs for the Year 1857. Washington: GPO, cited in Parks 2001, “Kitsai,” *Handbook of North American Indians*, vol. 13.
+- U.S. Office of Indian Affairs. 1858. Annual Report of the Commissioner of Indian Affairs for the Year 1858. Washington: GPO, cited in Wedel 2001, “Iowa,” *Handbook of North American Indians*, vol. 13.
 - U.S. Office of Indian Affairs. 1859. *Annual Report of the Commissioner of Indian Affairs for the Year 1859*. Washington: Government Printing Office. <https://archive.org/details/1826-report-from-the-indian-office>
 - U.S. Office of Indian Affairs. 1860. *Annual Report of the Commissioner of Indian Affairs for the Year 1860*. Washington: Government Printing Office.
 - U.S. Office of Indian Affairs. 1861. *Annual Report of the Commissioner of Indian Affairs for the Year 1861*. Washington: Government Printing Office. <https://archive.org/details/1826-report-from-the-indian-office>
@@ -128,378 +429,70 @@ The population estimates in Native Population Histories (NatPopHist) and their p
 - U.S. Office of Indian Affairs. 1883. *Annual Report of the Commissioner of Indian Affairs for the Year 1883*. Washington: Government Printing Office. <https://archive.org/details/usindianaffairs83usdorich>
 - U.S. Office of Indian Affairs. 1886. *Annual Report of the Commissioner of Indian Affairs for the Year 1886*. Washington: Government Printing Office. <https://archive.org/details/usindianaffairs86usdorich>
 - U.S. Office of Indian Affairs. 1888. *Annual Report of the Commissioner of Indian Affairs for the Year 1888*. Washington: Government Printing Office. <https://archive.org/details/reportofsecretar18882unit>
+- U.S. Office of Indian Affairs. 1890. Annual Report of the Commissioner of Indian Affairs for the Year 1890. Washington: GPO, cited in Wedel 2001, “Iowa,” *Handbook of North American Indians*, vol. 13; Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13; Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13; Brown 1979, “Picuris Pueblo,” *Handbook of North American Indians*, vol. 9.
 - U.S. Office of Indian Affairs. 1892. *Annual Report of the Commissioner of Indian Affairs for the Year 1892*. Washington: Government Printing Office. <https://archive.org/details/usindianaffairs92usdorich>
 - U.S. Office of Indian Affairs. 1894. *Annual Report of the Commissioner of Indian Affairs for the Year 1894*. Washington: Government Printing Office. <https://archive.org/details/usindianaffairs94usdorich>
 - U.S. Office of Indian Affairs. 1895. *Annual Report of the Commissioner of Indian Affairs for the Year 1895*. Washington: Government Printing Office. <https://archive.org/details/annualreportcom29affagoog>
+- U.S. Office of Indian Affairs. 1896. Annual Report of the Commissioner of Indian Affairs for the Year 1896. Washington: GPO, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
 - U.S. Office of Indian Affairs. 1897. *Annual Report of the Commissioner of Indian Affairs for the Year 1897*. Washington: Government Printing Office. <https://archive.org/details/usindianaffairs97usdorich>
 - U.S. Office of Indian Affairs. 1898. *Annual Report of the Commissioner of Indian Affairs for the Year 1898*. Washington: Government Printing Office. <https://archive.org/details/usindianaffairs98usdorich>
 - U.S. Office of Indian Affairs. 1899. *Annual Report of the Commissioner of Indian Affairs for the Year 1899*. Washington: Government Printing Office. <https://archive.org/details/annualreportcom26affagoog>
+- U.S. Office of Indian Affairs. 1900. Annual Report of the Commissioner of Indian Affairs for the Year 1900. Washington: GPO, cited in Walker 1998, “Nez Perce,” *Handbook of North American Indians*, vol. 12; Stern 1998, “Klamath and Modoc,” *Handbook of North American Indians*, vol. 12; Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13; Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13.
 - U.S. Office of Indian Affairs. 1901. *Annual Report of the Commissioner of Indian Affairs for the Year 1901*. Washington: Government Printing Office. <https://archive.org/details/usindianaffairs01usdorich>
+- U.S. Office of Indian Affairs. 1902. Annual Report of the Commissioner of Indian Affairs for the Year 1902. Washington: GPO, cited in Parks 2001, “Pawnee,” *Handbook of North American Indians*, vol. 13.
 - U.S. Office of Indian Affairs. 1905. *Annual Report of the Commissioner of Indian Affairs for the Year 1905*. Washington: Government Printing Office.
+- U.S. Office of Indian Affairs. 1906. Annual Report of the Commissioner of Indian Affairs for the Year 1906. Washington: GPO, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12; Swanton 1952, *The Indian Tribes of North America*.
 - U.S. Office of Indian Affairs. 1907. *Annual Report of the Commissioner of Indian Affairs for the Year 1907*. Washington: Government Printing Office. <https://archive.org/details/usindianaffairs07usdorich>
 - U.S. Office of Indian Affairs. 1910. *Annual Report of the Commissioner of Indian Affairs for the Year 1910*. Washington: Government Printing Office.
+- U.S. Office of Indian Affairs. 1913. Annual Report of the Commissioner of Indian Affairs for the Year 1913. Washington: GPO, cited in Opler 1983, “Chiricahua Apache,” *Handbook of North American Indians*, vol. 10.
 - U.S. Office of Indian Affairs. Annual Report of the Commissioner of Indian Affairs. n.d. **. Series; year not given in the citation. <https://archive.org/details/1826-report-from-the-indian-office>
 - Ubelaker, Douglas H. 1988. “North American Indian Population Size, A.D. 1500 to 1985.” *American Journal of Physical Anthropology* 77 (3): 289–294.
 - Ubelaker, Douglas H. 2006. “Population Size, Contact to Nadir.” In *Handbook of North American Indians*, vol. 3, *Environment, Origins, and Population*, edited by Douglas H. Ubelaker, 694–701. Washington: Smithsonian Institution.
-- Upham, Steadman. 1992. “Population and Spanish Contact in the Southwest.” In *Disease and Demography in the Americas*, edited by John W. Verano and Douglas H. Ubelaker, 223–236. Washington: Smithsonian Institution Press.
-- Urban, Greg, and Jason Baird Jackson. 2004. “Social Organization.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 697–706. Washington: Smithsonian Institution.
-- Voget, Fred W. 2001. “Crow.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 2, edited by Raymond J. DeMallie, 695–717. Washington: Smithsonian Institution.
-- Waddell, Gene. 2004. “Cusabo.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 254–264. Washington: Smithsonian Institution.
-- Walker, Deward E., Jr. 1998. “Nez Perce.” In *Handbook of North American Indians*, vol. 12, *Plateau*, edited by Deward E. Walker, Jr., 420–438. Washington: Smithsonian Institution.
-- Walker, Deward E., Jr., ed. 1998. *Handbook of North American Indians*, vol. 12, *Plateau*. William C. Sturtevant, general editor. Washington: Smithsonian Institution.
-- Wallace, William J. 1978. “Hupa, Chilula, and Whilkut.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 164–179. Washington: Smithsonian Institution.
-- Warrick, Gary. 2008. *A Population History of the Huron-Petun, A.D. 500–1650*. Cambridge: Cambridge University Press.
-- White, Marian E. 1978. “Erie.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 412–417. Washington: Smithsonian Institution.
-- White, Marian E. 1978. “Neutral and Wenro.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 407–411. Washington: Smithsonian Institution.
-- Wood, Peter H. 2006. “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790.” In *Powhatan's Mantle: Indians in the Colonial Southeast*, revised and expanded ed., edited by Gregory A. Waselkov, Peter H. Wood, and Tom Hatley, 57–132. Lincoln: University of Nebraska Press.
-- Wood, W. Raymond, and Lee Irwin. 2001. “Mandan.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 1, edited by Raymond J. DeMallie, 349–364. Washington: Smithsonian Institution.
-- Woodbury, Richard B. 1979. “Zuni Prehistory and History to 1850.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 467–473. Washington: Smithsonian Institution.
-- Worth, John E. 2004. “Guale.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 238–244. Washington: Smithsonian Institution.
-- Worth, John E. 2004. “Yamasee.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 245–253. Washington: Smithsonian Institution.
-- Young, Gloria A., and Michael P. Hoffman. 2001. “Quapaw.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 1, edited by Raymond J. DeMallie, 497–514. Washington: Smithsonian Institution.
-- Zenk, Henry B. 1990. “Alseans.” In *Handbook of North American Indians*, vol. 7, *Northwest Coast*, edited by Wayne Suttles, 568–571. Washington: Smithsonian Institution.
-
-### Earlier works cited in them
-
-- "Exact Account" of 1715, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
-- 1754 report, cited in Blu 2004, “Lumbee,” *Handbook of North American Indians*, vol. 14.
-- 1780 estimate, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
-- 1823 census, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- 1838 Report of the Commissioner for Indian Affairs, cited in Callender 1978, “Sauk,” *Handbook of North American Indians*, vol. 15.
-- 1865 census, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- 1870 reservation report, cited in Kroeber 1925, *Handbook of the Indians of California*.
-- 1910 U.S. Census, cited in Olmsted and Stewart 1978, “Achumawi,” *Handbook of North American Indians*, vol. 8.
-- [Smith, William]. 1766. An Historical Account of the Expedition against the Ohio Indians in the Year 1764 under the Command of Henry Bouquet. Philadelphia (1868 Cincinnati reprint consulted as well), cited in Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
-- a French officer, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Aberle 1967, cited in Aberle 1983, “Navajo Economic Development,” *Handbook of North American Indians*, vol. 10.
-- Aberle, Watkins, and Pitney 1940, cited in Ortiz 1979, “San Juan Pueblo,” *Handbook of North American Indians*, vol. 9.
-- agent's report, cited in Clemmer and Stewart 1986, “Treaties, Reservations, and Claims,” *Handbook of North American Indians*, vol. 11.
-- Allis (Dunbar and Allis 1918:701), cited in Parks 2001, “Arikara,” *Handbook of North American Indians*, vol. 13.
-- Alvarez, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- An Exact Account of the Number and Strength of all the Indian Nations, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
-- Anastasio 1955, cited in Schuster 1998, “Yakima and Neighboring Groups,” *Handbook of North American Indians*, vol. 12.
-- Armstrong, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Arny 1967, cited in Brown 1979, “Picuris Pueblo,” *Handbook of North American Indians*, vol. 9; Ellis 1979, “Isleta Pueblo,” *Handbook of North American Indians*, vol. 9; Ellis 1979, “Laguna Pueblo,” *Handbook of North American Indians*, vol. 9; Garcia-Mason 1979, “Acoma Pueblo,” *Handbook of North American Indians*, vol. 9.
-- attempted census, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Baird 1980, cited in Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
-- Bancroft, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Bartram, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Baumhoff 1958, cited in Elsasser 1978, “Wiyot,” *Handbook of North American Indians*, vol. 8.
-- Bean 1962-1972, cited in Bean and Smith 1978, “Serrano,” *Handbook of North American Indians*, vol. 8.
-- Benavides, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Benavides 1916, cited in Brown 1979, “Picuris Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Benavides 1945, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Benavides in Worth 1998, cited in Milanich 2004, “Timucua,” *Handbook of North American Indians*, vol. 14.
-- Beverley 1705, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
-- BIA reports, Southern Pueblos Agency, cited in Sando 1979, “Jemez Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Bolton 1910b, cited in Newcomb and Campbell 2001, “Tonkawa,” *Handbook of North American Indians*, vol. 13.
-- Bowers 1965, cited in Stewart 2001, “Hidatsa,” *Handbook of North American Indians*, vol. 13.
-- Boyd (1985), cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*; Malouf 1998, “Flathead and Pend d'Oreille,” *Handbook of North American Indians*, vol. 12; Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- Bradbury 1904, cited in Owsley 1992, “Demography of Prehistoric and Early Historic Northern Plains Populations,” *Disease and Demography in the Americas*.
-- Bradley 1917, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
-- Brain, cited in Brain, Roth and de Reuse 2004, “Tunica, Biloxi, and Ofo,” *Handbook of North American Indians*, vol. 14.
-- Brant (1950:257), cited in Edelman and Ortiz 1979, “Tesuque Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Brébeuf and Chaumonot, cited in White 1978, “Neutral and Wenro,” *Handbook of North American Indians*, vol. 15.
-- Buchanan (1857), cited in Elsasser 1978, “Wiyot,” *Handbook of North American Indians*, vol. 8.
-- Bureau of Indian Affairs. Kiowa Agency 1990, cited in Foster and McCollough 2001, “Plains Apache,” *Handbook of North American Indians*, vol. 13.
-- Burrows, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Burton 1936, cited in Edelman 1979, “San Ildefonso Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Byrd, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Canadian and United States Departments of Indian Affairs, cited in Swanton 1952, *The Indian Tribes of North America*.
-- careful estimate (1903), cited in Kroeber 1925, *Handbook of the Indians of California*.
-- Carroll and Haggard 1942, cited in Brandt 1979, “Sandia Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Catlin, cited in Swanton 1952, *The Indian Tribes of North America*.
-- census, cited in Swanton 1946, *The Indians of the Southeastern United States*; Swanton 1952, *The Indian Tribes of North America*.
-- census of 1715, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- census of 1832-33, cited in Swanton 1946, *The Indians of the Southeastern United States*; Swanton 1952, *The Indian Tribes of North America*.
-- census of 1904, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Chalfant 1933, cited in Liljeblad and Fowler 1986, “Owens Valley Paiute,” *Handbook of North American Indians*, vol. 11.
-- chapter author, cited in Shimkin 1986, “Eastern Shoshone,” *Handbook of North American Indians*, vol. 11.
-- chapter author (Bailey 1973:109–110), cited in Bailey 2001, “Osage,” *Handbook of North American Indians*, vol. 13.
-- Chesterfield House Report 1822-1823, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
-- Colvocorresses 1855, cited in Hajda 1990, “Southwestern Coast Salish,” *Handbook of North American Indians*, vol. 7.
-- Concha, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Cook 1943b, cited in Grant 1978, “Chumash: Introduction,” *Handbook of North American Indians*, vol. 8; Bright 1978, “Karok,” *Handbook of North American Indians*, vol. 8; LaPena 1978, “Wintu,” *Handbook of North American Indians*, vol. 8; Johnson 1978, “Yana,” *Handbook of North American Indians*, vol. 8; Levy 1978, “Eastern Miwok,” *Handbook of North American Indians*, vol. 8; Kelly 1978, “Coast Miwok,” *Handbook of North American Indians*, vol. 8; Levy 1978, “Costanoan,” *Handbook of North American Indians*, vol. 8; Hester 1978, “Salinan,” *Handbook of North American Indians*, vol. 8.
-- Cook 1956, cited in Gould 1978, “Tolowa,” *Handbook of North American Indians*, vol. 8; Miller 1978, “Yuki, Huchnom, and Coast Yuki,” *Handbook of North American Indians*, vol. 8.
-- Cook 1974, cited in Hester 1978, “Esselen,” *Handbook of North American Indians*, vol. 8.
-- Corbusier 1969, cited in Khera and Mariella 1983, “Yavapai,” *Handbook of North American Indians*, vol. 10.
-- Coues 1900, cited in Schwartz 1983, “Havasupai,” *Handbook of North American Indians*, vol. 10.
-- Culbertson (1952:137), cited in Parks 2001, “Arikara,” *Handbook of North American Indians*, vol. 13; DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
-- Curtis 1907-1930 (federal census of 1910), cited in Gould 1978, “Tolowa,” *Handbook of North American Indians*, vol. 8; Myers 1978, “Cahto,” *Handbook of North American Indians*, vol. 8.
-- Cushing 1882, cited in Schwartz 1983, “Havasupai,” *Handbook of North American Indians*, vol. 10.
-- Céloron, cited in Callender 1978, “Sauk,” *Handbook of North American Indians*, vol. 15.
-- D.R. Miller 1987, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
-- D.S. Brown 1966, cited in Rudes, Blumer and May 2004, “Catawba and Neighboring Groups,” *Handbook of North American Indians*, vol. 14.
-- Daniel Clark, cited in Campisi 2004, “Houma,” *Handbook of North American Indians*, vol. 14.
-- Dart 1851, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12; Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- Delgado, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Denig 1930, 1961, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
-- Denig 1961, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
-- Dixon 1907, cited in Silver 1978, “Shastan Peoples,” *Handbook of North American Indians*, vol. 8.
-- Domínguez, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Domínguez 1956, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Donald J. Lehmer (personal communication 1974), cited in Wood and Irwin 2001, “Mandan,” *Handbook of North American Indians*, vol. 13.
-- Dorsey 1892, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
-- Dorsey and Thomas 1910, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
-- Doty 1855, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
-- Dougherty 1837, cited in Wedel and Frison 2001, “Environment and Subsistence,” *Handbook of North American Indians*, vol. 13.
-- Douglas 1878, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
-- Dozier 1970, cited in Simmons 1979, “History of the Pueblos Since 1821,” *Handbook of North American Indians*, vol. 9; Strong 1979, “San Felipe Pueblo,” *Handbook of North American Indians*, vol. 9; Strong 1979, “Santa Ana Pueblo,” *Handbook of North American Indians*, vol. 9; Upham 1992, “Population and Spanish Contact in the Southwest,” *Disease and Demography in the Americas*.
-- Duflot de Mofras 1937, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
-- Dunkle 1958, cited in Milanich 2004, “Timucua,” *Handbook of North American Indians*, vol. 14.
-- Eells, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Eells (1985:31), cited in Suttles and Lane 1990, “Southern Coast Salish,” *Handbook of North American Indians*, vol. 7.
-- Eells 1881, cited in Elmendorf 1990, “Chemakum,” *Handbook of North American Indians*, vol. 7.
-- Eells 1889, cited in Elmendorf 1990, “Chemakum,” *Handbook of North American Indians*, vol. 7.
-- Egbert, cited in Liljeblad and Fowler 1986, “Owens Valley Paiute,” *Handbook of North American Indians*, vol. 11.
-- English census, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- estimate, cited in Levy 1978, “Eastern Miwok,” *Handbook of North American Indians*, vol. 8.
-- Ewers 1955, cited in Schuster 1998, “Yakima and Neighboring Groups,” *Handbook of North American Indians*, vol. 12.
-- Father Vivier, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Father White, cited in Feest 1978, “Nanticoke and Neighboring Tribes,” *Handbook of North American Indians*, vol. 15.
-- Faye 1943, cited in Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
-- Feest 1973, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
-- Fewkes 1899, cited in Stanislawski 1979, “Hopi-Tewa,” *Handbook of North American Indians*, vol. 9.
-- first agent, cited in Kroeber 1925, *Handbook of the Indians of California*.
-- Forbes 1965, cited in Bee 1983, “Quechan,” *Handbook of North American Indians*, vol. 10.
-- Foreman 1946, cited in Newcomb and Campbell 2001, “Tonkawa,” *Handbook of North American Indians*, vol. 13; Tooker 1978, “Wyandot,” *Handbook of North American Indians*, vol. 15; Callender 1978, “Sauk,” *Handbook of North American Indians*, vol. 15; Callender 1978, “Illinois,” *Handbook of North American Indians*, vol. 15.
-- Forney, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Forsyth, cited in Callender 1978, “Fox,” *Handbook of North American Indians*, vol. 15.
-- Fowler 1987, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
-- Francisco Garcés, cited in Dobyns 1992, “Native American Trade Centers as Contagious Disease Foci,” *Disease and Demography in the Americas*.
-- Fray Martín Prieto, cited in McEwan 2004, “Apalachee and Neighboring Groups,” *Handbook of North American Indians*, vol. 14.
-- French missionaries and government agents, cited in Clifton 1978, “Potawatomi,” *Handbook of North American Indians*, vol. 15.
-- G.A. Dorsey 1904a, cited in Newcomb 2001, “Wichita,” *Handbook of North American Indians*, vol. 13.
-- Gallatin 1836, cited in Galloway and Jackson 2004, “Natchez and Neighboring Groups,” *Handbook of North American Indians*, vol. 14.
-- Gallegos Lamero, cited in Upham 1992, “Population and Spanish Contact in the Southwest,” *Disease and Demography in the Americas*.
-- Garcés, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Gatschet, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Gatschet 1883, cited in Brightman 2004, “Chitimacha,” *Handbook of North American Indians*, vol. 14.
-- Gen. Peter B. Porter, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- General Census of New Mexico, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Gibbs (1877), cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*; Elmendorf 1990, “Chemakum,” *Handbook of North American Indians*, vol. 7; Swanton 1952, *The Indian Tribes of North America*.
-- Gibbs 1855, cited in Schuster 1998, “Yakima and Neighboring Groups,” *Handbook of North American Indians*, vol. 12; Walker and Schuster 1998, “Religious Movements,” *Handbook of North American Indians*, vol. 12.
-- Gifford 1936, cited in Khera and Mariella 1983, “Yavapai,” *Handbook of North American Indians*, vol. 10.
-- Goddard 1907a, cited in Myers 1978, “Cahto,” *Handbook of North American Indians*, vol. 8.
-- Government census of 1910, cited in Kroeber 1925, *Handbook of the Indians of California*.
-- government of South Carolina, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Governor Salazar, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Grossman 1873, cited in Harwell and Kelly 1983, “Maricopa,” *Handbook of North American Indians*, vol. 10.
-- H. Dodge 1836, cited in Fowler 2001, “Arapaho,” *Handbook of North American Indians*, vol. 13.
-- H. Hale 1885, cited in Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
-- Hackett 1923-1937, 3, cited in Schroeder 1979, “Pueblos Abandoned in Historic Times,” *Handbook of North American Indians*, vol. 9; Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Hackett 1942, cited in Edelman 1979, “San Ildefonso Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Hann 1986, cited in McEwan 2004, “Apalachee and Neighboring Groups,” *Handbook of North American Indians*, vol. 14.
-- Hann 1991, cited in Marquardt 2004, “Calusa,” *Handbook of North American Indians*, vol. 14.
-- Hann 1996, cited in Worth 2004, “Guale,” *Handbook of North American Indians*, vol. 14.
-- Harvey 1968, cited in Bean 1978, “Cahuilla,” *Handbook of North American Indians*, vol. 8.
-- Hayes 1929, cited in Dobyns 1992, “Native American Trade Centers as Contagious Disease Foci,” *Disease and Demography in the Americas*.
-- HBC 1838, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
-- Hening 1809-1823, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
-- Henry the Younger in Gough 1988-1992, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
-- Henshaw (in Powell 1891), cited in Hester 1978, “Salinan,” *Handbook of North American Indians*, vol. 8.
-- Hewett 1930, cited in Lambert 1979, “Pojoaque Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Hewitt (1907), cited in Swanton 1952, *The Indian Tribes of North America*.
-- Hezio, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Hodge in Benavides 1945, cited in Schroeder 1979, “Pueblos Abandoned in Historic Times,” *Handbook of North American Indians*, vol. 9.
-- Hodgson, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Hudson's Bay Company, cited in Boyd 1990, “Demographic History, 1774–1874,” *Handbook of North American Indians*, vol. 7.
-- Hudson's Bay records (Wilkes 1925-26), cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
-- Iberville in Nasatir 1952, 1, cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13.
-- IHC 11, cited in Bauxar 1978, “History of the Illinois Area,” *Handbook of North American Indians*, vol. 15.
-- Indian agent tabulation recovered by Olson, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Irwin 1987, cited in Hajda 1990, “Southwestern Coast Salish,” *Handbook of North American Indians*, vol. 7.
-- Ives 1861, cited in Schwartz 1983, “Havasupai,” *Handbook of North American Indians*, vol. 10.
-- J. L'Heureaux in Dempsey 1961, cited in Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
-- J. Rowand in Hind 1859, cited in Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
-- J.B. Dunbar 1880, cited in Parks 2001, “Pawnee,” *Handbook of North American Indians*, vol. 13.
-- J.B. Truteau in Nasatir 1952, 2, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13.
-- J.O. Dorsey 1892, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13; Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
-- James Swan 1870, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
-- Jefferson, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Jefferson 1801, cited in Goddard 1978, “Delaware,” *Handbook of North American Indians*, vol. 15; Goddard 1978, “Mascouten,” *Handbook of North American Indians*, vol. 15.
-- Jerry E. Clark, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
-- Jesuit Relations (JR 54:169, 283), cited in Tooker 1978, “Wyandot,” *Handbook of North American Indians*, vol. 15.
-- Jicarilla Apache Tribal Census Rolls, cited in Tiller 1983, “Jicarilla Apache,” *Handbook of North American Indians*, vol. 10.
-- Johnson 1715, cited in Waddell 2004, “Cusabo,” *Handbook of North American Indians*, vol. 14.
-- Johnson 7, cited in Snow 1992, “Disease and Population Decline in the Northeast,” *Disease and Demography in the Americas*.
-- Jones, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Jones 1966, cited in Brown 1979, “Picuris Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Journal of the second vessel, cited in Swanton 1952, *The Indian Tribes of North America*.
-- JP 47, cited in Palmer 1998, “Coeur d'Alene,” *Handbook of North American Indians*, vol. 12.
-- JR 55, cited in Goddard 1978, “Mascouten,” *Handbook of North American Indians*, vol. 15.
-- Kane (1951:278), cited in Parks 2001, “Arikara,” *Handbook of North American Indians*, vol. 13.
-- Keating, cited in Clifton 1978, “Potawatomi,” *Handbook of North American Indians*, vol. 15.
-- Keesing 1939, cited in Spindler 1978, “Menominee,” *Handbook of North American Indians*, vol. 15.
-- Kelsey 1906, cited in Callaghan 1978, “Lake Miwok,” *Handbook of North American Indians*, vol. 8.
-- Kelsey 1971, cited in Silver 1978, “Shastan Peoples,” *Handbook of North American Indians*, vol. 8.
-- Kidder 1958, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Kinietz 1940, cited in Callender 1978, “Miami,” *Handbook of North American Indians*, vol. 15.
-- Kirkland 1764-1804, cited in Abler and Tooker 1978, “Seneca,” *Handbook of North American Indians*, vol. 15.
-- Kniffen (1928:299), cited in Olmsted and Stewart 1978, “Achumawi,” *Handbook of North American Indians*, vol. 8.
-- Kroeber (1907c), cited in Silver 1978, “Chimariko,” *Handbook of North American Indians*, vol. 8.
-- Kroeber 1957a, cited in Bright 1978, “Karok,” *Handbook of North American Indians*, vol. 8.
-- Kroeber, A. L. 1939. Cultural and Natural Areas of Native North America. Berkeley, cited in Clifton 1978, “Potawatomi,” *Handbook of North American Indians*, vol. 15.
-- L. Cass in Schoolcraft 1851-1857, 3, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13; Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
-- La Harpe, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Lane, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Larocque 1910, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
-- Leroux, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Letters Received by OIA, cited in Landy 1978, “Tuscarora Among the Iroquois,” *Handbook of North American Indians*, vol. 15.
-- Lewis 1832:709 (table 1), cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
-- Lewis and Clark, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*; Lahren 1998, “Kalispel,” *Handbook of North American Indians*, vol. 12; Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12; Swanton 1952, *The Indian Tribes of North America*.
-- Lewis and Clark (via Michelson 1919), cited in Swanton 1952, *The Indian Tribes of North America*.
-- Lewis and Clark 1806:26, 1814, 1, cited in Stewart 2001, “Hidatsa,” *Handbook of North American Indians*, vol. 13.
-- Lewis and Clark in Moulton 1983-, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13; Foster and McCollough 2001, “Plains Apache,” *Handbook of North American Indians*, vol. 13.
-- Lewis and Clark, Codex I, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- Logan 1862, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- Long in Keating 1825, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
-- Lord Culpeper, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
-- Loud (1918), cited in Elsasser 1978, “Wiyot,” *Handbook of North American Indians*, vol. 8.
-- Lydekker 1938, cited in Snow 1992, “Disease and Population Decline in the Northeast,” *Disease and Demography in the Americas*.
-- M'Gillivray in Milloy 1988, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
-- M.H. Wright 1951, cited in Opler 2001, “Lipan Apache,” *Handbook of North American Indians*, vol. 13; Callender 1978, “Shawnee,” *Handbook of North American Indians*, vol. 15.
-- Mackenzie in Lamb 1970, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
-- Marbury (1792), cited in Swanton 1952, *The Indian Tribes of North America*.
-- Marston 1912, cited in Callender 1978, “Sauk,” *Handbook of North American Indians*, vol. 15.
-- Matlock in Schoolcraft 1851-1857, 6, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
-- McLoughlin 1993, cited in King 2004, “Cherokee in the West: History Since 1776,” *Handbook of North American Indians*, vol. 14.
-- Menchero, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- MHSC ser. 1, 5, cited in Landy 1978, “Tuscarora Among the Iroquois,” *Handbook of North American Indians*, vol. 15.
-- Michelson (1919), after Lewis and Clark, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Mission Records, cited in Bean and Shipek 1978, “Luiseño,” *Handbook of North American Indians*, vol. 8.
-- Mitchell in Schoolcraft 1851-1857, 6, cited in Brown and Irwin 2001, “Ponca,” *Handbook of North American Indians*, vol. 13.
-- Mooney, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15; Swanton 1946, *The Indians of the Southeastern United States*; Swanton 1952, *The Indian Tribes of North America*.
-- Mooney 1896, cited in Parks 2001, “Kitsai,” *Handbook of North American Indians*, vol. 13.
-- Mooney 1907, cited in Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13.
-- Mooney 1910, cited in Newcomb 2001, “Wichita,” *Handbook of North American Indians*, vol. 13.
-- Mooney and Thomas, cited in Cook 1976, *The Indian Population of New England in the Seventeenth Century*.
-- Mooney; chapter author, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Morse, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Mr. Purcell, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
-- native estimate, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Neighbors (Winfrey and Day 1959-1966), cited in Opler 2001, “Lipan Apache,” *Handbook of North American Indians*, vol. 13; Newcomb and Campbell 2001, “Tonkawa,” *Handbook of North American Indians*, vol. 13.
-- New Mexico Census, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Newell, cited in Sprague 1998, “Palouse,” *Handbook of North American Indians*, vol. 12.
-- Newell 1959:150–151; calculated by Stern, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
-- O'Callaghan, E. B., ed. 1856. Documents Relative to the Colonial History of the State of New-York, vol. 7. Albany: Weed, Parsons, cited in Landy 1978, “Tuscarora Among the Iroquois,” *Handbook of North American Indians*, vol. 15.
-- official count of 1905, cited in Swanton 1952, *The Indian Tribes of North America*.
-- official figure, cited in Swanton 1952, *The Indian Tribes of North America*.
-- official reports, cited in Swanton 1952, *The Indian Tribes of North America*.
-- official return 1906, cited in Swanton 1952, *The Indian Tribes of North America*.
-- P.B. Porter in Schoolcraft 1851–1857, 3, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13; Schweitzer 2001, “Otoe and Missouria,” *Handbook of North American Indians*, vol. 13.
-- P.H. Wood, cited in Thornton 2004, “Demographic History,” *Handbook of North American Indians*, vol. 14.
-- P.H. Wood 1989, cited in Dowd 2004, “The American Revolution to the Mid-Nineteenth Century,” *Handbook of North American Indians*, vol. 14; Brightman and Wallace 2004, “Chickasaw,” *Handbook of North American Indians*, vol. 14; Galloway and Kidwell 2004, “Choctaw in the East,” *Handbook of North American Indians*, vol. 14.
-- P.M. Butler and M.G. Lewis 1846, cited in Kavanagh 2001, “Comanche,” *Handbook of North American Indians*, vol. 13.
-- Palliser in Ray 1974, cited in DeMallie and Miller 2001, “Assiniboine,” *Handbook of North American Indians*, vol. 13.
-- Palmer 1981, cited in Palmer 1998, “Coeur d'Alene,” *Handbook of North American Indians*, vol. 12.
-- Parker 1837, 1844, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- Perez de Luxan, cited in Upham 1992, “Population and Spanish Contact in the Southwest,” *Disease and Demography in the Americas*.
-- Pike 1810, Pt. 2 [Appendix], cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13; Parks 2001, “Pawnee,” *Handbook of North American Indians*, vol. 13.
-- Pike in D.D. Jackson 1965, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
-- Porter, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Powell (1891), cited in Kendall 1990, “Takelma,” *Handbook of North American Indians*, vol. 7.
-- Purcell, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- R.C. White 1963, cited in Bean and Shipek 1978, “Luiseño,” *Handbook of North American Indians*, vol. 8.
-- Ramsey 1849, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
-- Ray (1932), cited in Swanton 1952, *The Indian Tribes of North America*.
-- Ray 1959:11; calculated by Stern, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
-- Raymond 1854, cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
-- Real Alencaster, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Rountree 1973a, cited in Boyce 1978, “Iroquoian Tribes of the Virginia-North Carolina Coastal Plain,” *Handbook of North American Indians*, vol. 15.
-- Rubín de Celís, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Samuel Parker, cited in Sprague 1998, “Palouse,” *Handbook of North American Indians*, vol. 12.
-- Schermerhorn, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Schermerhorn 1814, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13; Wedel 2001, “Iowa,” *Handbook of North American Indians*, vol. 13; Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13; Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
-- Schoolcraft, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Schoolcraft 1851-1857, cited in Sturtevant 1998, *Handbook of North American Indians*, vol. 12; Beckham 1998, “History Since 1846,” *Handbook of North American Indians*, vol. 12; Parks 2001, “Kitsai,” *Handbook of North American Indians*, vol. 13; Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13; Boyce 1978, “Iroquoian Tribes of the Virginia-North Carolina Coastal Plain,” *Handbook of North American Indians*, vol. 15.
-- Shipek 1971, cited in Bean 1978, “Cahuilla,” *Handbook of North American Indians*, vol. 8.
-- Sibley, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- Simms 1877a, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- Simon Fraser (Lamb 1960:86-97), cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- Smith 1612, cited in Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
-- Spanish entradas (Oñate), cited in Schroeder 1979, “Pueblos Abandoned in Historic Times,” *Handbook of North American Indians*, vol. 9.
-- Spanish figures (Gibson 1963), cited in Callender, Pope and Pope 1978, “Kickapoo,” *Handbook of North American Indians*, vol. 15.
-- Spanish report to governor of West Florida and Louisiana, cited in Wood 2006, “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790,” *Powhatan's Mantle: Indians in the Colonial Southeast*.
-- Spanish, Mexican, and American censuses (Bailey and Bailey 1986), cited in Brooks 2015, “The Pestilent Serpent: Colonialism, Health, and Indigenous Demographics,” *Beyond Germs: Native Depopulation in North America*.
-- Spaulding 1953, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
-- Speck (1916, 1924), cited in Feest 1978, “North Carolina Algonquians,” *Handbook of North American Indians*, vol. 15.
-- Speck 1909, Ethnology of the Yuchi Indians, cited in Swanton 1952, *The Indian Tribes of North America*.
-- Spier and Sapir (via French), cited in Boyd 1999, *The Coming of the Spirit of Pestilence: Introduced Infectious Diseases and Population Decline among Northwest Coast Indians, 1774–1874*.
-- St. Jean 2000, cited in Brightman and Wallace 2004, “Chickasaw,” *Handbook of North American Indians*, vol. 14.
-- St. John 1859, cited in Harwell and Kelly 1983, “Maricopa,” *Handbook of North American Indians*, vol. 10.
-- Stevens 1983, cited in Paredes 2004, “Creek in the East Since Removal,” *Handbook of North American Indians*, vol. 14.
-- Steward 1938, cited in Leland 1986, “Population,” *Handbook of North American Indians*, vol. 11.
-- Stewart 1975:78-80, 1975a, cited in Stewart 2001, “Hidatsa,” *Handbook of North American Indians*, vol. 13.
-- Stirling 1916, cited in Callender 1978, “Illinois,” *Handbook of North American Indians*, vol. 15.
-- Stuart 1935, cited in Hajda 1990, “Southwestern Coast Salish,” *Handbook of North American Indians*, vol. 7.
-- Swan 1857, cited in Hajda 1990, “Southwestern Coast Salish,” *Handbook of North American Indians*, vol. 7.
-- Swan 1859–1866: item for Oct. 25, 1860, cited in Elmendorf 1990, “Chemakum,” *Handbook of North American Indians*, vol. 7.
-- Swanton 1942, cited in Rogers and Sabo 2004, “Caddo,” *Handbook of North American Indians*, vol. 14.
-- T. Heron in Chesterfield House [Journals] 1823, cited in Dempsey 2001, “Blackfoot,” *Handbook of North American Indians*, vol. 13.
-- T. Murphy 1867, cited in Foster and McCollough 2001, “Plains Apache,” *Handbook of North American Indians*, vol. 13.
-- Tamarón, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
-- Tamarón y Romeral 1954, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Tatum 1870, cited in Kavanagh 2001, “Comanche,” *Handbook of North American Indians*, vol. 13.
-- Teit, cited in Malouf 1998, “Flathead and Pend d'Oreille,” *Handbook of North American Indians*, vol. 12; Swanton 1952, *The Indian Tribes of North America*.
-- Teit (1909:466, 1900:175, 1906:199), cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- Teit 1930, cited in Malouf 1998, “Flathead and Pend d'Oreille,” *Handbook of North American Indians*, vol. 12.
-- Thomas 1932, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9; Ellis 1979, “Laguna Pueblo,” *Handbook of North American Indians*, vol. 9.
-- Thornton 1990, cited in Thornton 2004, “Demographic History,” *Handbook of North American Indians*, vol. 14.
-- Thwaites, Reuben Gold, ed. 1904. Early Western Travels 1748-1846, vol. 1. Cleveland: Arthur H. Clark, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12; Parks 2001, “Pawnee,” *Handbook of North American Indians*, vol. 13; Boyd 1990, “Demographic History, 1774–1874,” *Handbook of North American Indians*, vol. 7; Seaburg and Miller 1990, “Tillamook,” *Handbook of North American Indians*, vol. 7; Zenk 1990, “Siuslawans and Coosans,” *Handbook of North American Indians*, vol. 7.
-- Tooker 1978, cited in Snow 1992, “Disease and Population Decline in the Northeast,” *Disease and Demography in the Americas*.
-- Treaty estimates, cited in Boyd 1990, “Demographic History, 1774–1874,” *Handbook of North American Indians*, vol. 7.
-- Twitchell 1911-1917, 1, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
-- U.S. Army census (U.S. Congress. Senate 1936:142), cited in McGuire 1983, “Walapai,” *Handbook of North American Indians*, vol. 10.
-- U.S. Bureau of Indian Affairs (1888-1940), cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
-- U.S. Bureau of Indian Affairs 1854-1871 Records, cited in Arnon and Hill 1979, “Santa Clara Pueblo,” *Handbook of North American Indians*, vol. 9.
-- U.S. Bureau of the Census, cited in Leland 1986, “Population,” *Handbook of North American Indians*, vol. 11; Feest 1978, “Virginia Algonquians,” *Handbook of North American Indians*, vol. 15.
-- U.S. census, cited in Swanton 1946, *The Indians of the Southeastern United States*.
-- U.S. Census Office, cited in Garcia-Mason 1979, “Acoma Pueblo,” *Handbook of North American Indians*, vol. 9.
-- U.S. Census Office 1893, cited in Bodine 1979, “Taos Pueblo,” *Handbook of North American Indians*, vol. 9.
-- U.S. Census Office. 1883. Tenth Census of the United States, 1880. Washington, cited in Miller 1978, “Yuki, Huchnom, and Coast Yuki,” *Handbook of North American Indians*, vol. 8; Bean and Shipek 1978, “Luiseño,” *Handbook of North American Indians*, vol. 8.
-- U.S. Office of Indian Affairs. 1835. Annual Report of the Commissioner of Indian Affairs for the Year 1835. Washington: GPO, cited in Liberty, Wood and Irwin 2001, “Omaha,” *Handbook of North American Indians*, vol. 13; Young and Hoffman 2001, “Quapaw,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1837. Annual Report of the Commissioner of Indian Affairs for the Year 1837. Washington: GPO, cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13; Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1841. Annual Report of the Commissioner of Indian Affairs for the Year 1841. Washington: GPO, cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1853. Annual Report of the Commissioner of Indian Affairs for the Year 1853. Washington: GPO, cited in Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1857. Annual Report of the Commissioner of Indian Affairs for the Year 1857. Washington: GPO, cited in Parks 2001, “Kitsai,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1858. Annual Report of the Commissioner of Indian Affairs for the Year 1858. Washington: GPO, cited in Wedel 2001, “Iowa,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1890. Annual Report of the Commissioner of Indian Affairs for the Year 1890. Washington: GPO, cited in Wedel 2001, “Iowa,” *Handbook of North American Indians*, vol. 13; Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13; Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13; Brown 1979, “Picuris Pueblo,” *Handbook of North American Indians*, vol. 9.
-- U.S. Office of Indian Affairs. 1896. Annual Report of the Commissioner of Indian Affairs for the Year 1896. Washington: GPO, cited in Fowler and Flannery 2001, “Gros Ventre,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1900. Annual Report of the Commissioner of Indian Affairs for the Year 1900. Washington: GPO, cited in Walker 1998, “Nez Perce,” *Handbook of North American Indians*, vol. 12; Stern 1998, “Klamath and Modoc,” *Handbook of North American Indians*, vol. 12; Bailey and Young 2001, “Kansa,” *Handbook of North American Indians*, vol. 13; Moore, Liberty and Straus 2001, “Cheyenne,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1902. Annual Report of the Commissioner of Indian Affairs for the Year 1902. Washington: GPO, cited in Parks 2001, “Pawnee,” *Handbook of North American Indians*, vol. 13.
-- U.S. Office of Indian Affairs. 1906. Annual Report of the Commissioner of Indian Affairs for the Year 1906. Washington: GPO, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12; Swanton 1952, *The Indian Tribes of North America*.
-- U.S. Office of Indian Affairs. 1913. Annual Report of the Commissioner of Indian Affairs for the Year 1913. Washington: GPO, cited in Opler 1983, “Chiricahua Apache,” *Handbook of North American Indians*, vol. 10.
 - United Pueblos Agency, cited in Brandt 1979, “Sandia Pueblo,” *Handbook of North American Indians*, vol. 9.
-- United States Census, cited in Swanton 1952, *The Indian Tribes of North America*.
 - United States Census of 1910, cited in Swanton 1946, *The Indians of the Southeastern United States*; Swanton 1952, *The Indian Tribes of North America*.
+- United States Census, cited in Swanton 1952, *The Indian Tribes of North America*.
 - United States Department of Indian Affairs, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - unnamed source, cited in Swanton 1946, *The Indians of the Southeastern United States*.
 - unspecified estimates, cited in Kroeber 1925, *Handbook of the Indians of California*.
+- Upham, Steadman. 1992. “Population and Spanish Contact in the Southwest.” In *Disease and Demography in the Americas*, edited by John W. Verano and Douglas H. Ubelaker, 223–236. Washington: Smithsonian Institution Press.
+- Urban, Greg, and Jason Baird Jackson. 2004. “Social Organization.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 697–706. Washington: Smithsonian Institution.
 - usual conjecture, cited in Goddard 1978, “Delaware,” *Handbook of North American Indians*, vol. 15.
 - Valdéz 1728, in Worth 1998, cited in Milanich 2004, “Timucua,” *Handbook of North American Indians*, vol. 14.
 - Vargas Zapata y Luxán Ponze de León 1940, cited in Schroeder 1979, “Pecos Pueblo,” *Handbook of North American Indians*, vol. 9.
 - various writers, cited in Swanton 1952, *The Indian Tribes of North America*.
 - Varo, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
 - Vaughan 1848, cited in Wedel 2001, “Iowa,” *Handbook of North American Indians*, vol. 13.
-- Vetancurt, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
 - Vetancurt (1960), cited in Woodbury 1979, “Zuni Prehistory and History to 1850,” *Handbook of North American Indians*, vol. 9.
+- Vetancurt, cited in Simmons 1979, “History of Pueblo-Spanish Relations to 1821,” *Handbook of North American Indians*, vol. 9.
 - Voegelin (1938), cited in Smith 1978, “Tubatulabal,” *Handbook of North American Indians*, vol. 8; Swanton 1952, *The Indian Tribes of North America*.
+- Voget, Fred W. 2001. “Crow.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 2, edited by Raymond J. DeMallie, 695–717. Washington: Smithsonian Institution.
 - W.J. Hoffman 1896, cited in Spindler 1978, “Menominee,” *Handbook of North American Indians*, vol. 15.
+- Waddell, Gene. 2004. “Cusabo.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 254–264. Washington: Smithsonian Institution.
 - Walker and Leonhardy 1967, cited in Stern 1998, “Cayuse, Umatilla, and Walla Walla,” *Handbook of North American Indians*, vol. 12.
+- Walker, Deward E., Jr. 1998. “Nez Perce.” In *Handbook of North American Indians*, vol. 12, *Plateau*, edited by Deward E. Walker, Jr., 420–438. Washington: Smithsonian Institution.
+- Walker, Deward E., Jr., ed. 1998. *Handbook of North American Indians*, vol. 12, *Plateau*. William C. Sturtevant, general editor. Washington: Smithsonian Institution.
+- Wallace, William J. 1978. “Hupa, Chilula, and Whilkut.” In *Handbook of North American Indians*, vol. 8, *California*, edited by Robert F. Heizer, 164–179. Washington: Smithsonian Institution.
 - Warren 1856, cited in DeMallie 2001, “Sioux Until 1850,” *Handbook of North American Indians*, vol. 13.
+- Warrick, Gary. 2008. *A Population History of the Huron-Petun, A.D. 500–1650*. Cambridge: Cambridge University Press.
 - White 1942, cited in Strong 1979, “Santa Ana Pueblo,” *Handbook of North American Indians*, vol. 9.
+- White, Marian E. 1978. “Erie.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 412–417. Washington: Smithsonian Institution.
+- White, Marian E. 1978. “Neutral and Wenro.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 407–411. Washington: Smithsonian Institution.
 - Widmer 1988, The Evolution of the Calusa, cited in Sturtevant 2004, *Handbook of North American Indians*, vol. 14.
 - Wilbur 1881, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
 - Winans 1870, cited in Boyd 1998, “Demographic History Until 1990,” *Handbook of North American Indians*, vol. 12.
+- Wood, Peter H. 2006. “The Changing Population of the Colonial South: An Overview by Race and Region, 1685–1790.” In *Powhatan's Mantle: Indians in the Colonial Southeast*, revised and expanded ed., edited by Gregory A. Waselkov, Peter H. Wood, and Tom Hatley, 57–132. Lincoln: University of Nebraska Press.
+- Wood, W. Raymond, and Lee Irwin. 2001. “Mandan.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 1, edited by Raymond J. DeMallie, 349–364. Washington: Smithsonian Institution.
+- Woodbury, Richard B. 1979. “Zuni Prehistory and History to 1850.” In *Handbook of North American Indians*, vol. 9, *Southwest*, edited by Alfonso Ortiz, 467–473. Washington: Smithsonian Institution.
 - Work 1829, cited in Ross 1998, “Spokane,” *Handbook of North American Indians*, vol. 12.
 - Worth 1995a, cited in Worth 2004, “Guale,” *Handbook of North American Indians*, vol. 14.
 - Worth 1998, cited in Saunt 2004, “History Until 1776,” *Handbook of North American Indians*, vol. 14; Worth 2004, “Yamasee,” *Handbook of North American Indians*, vol. 14.
+- Worth, John E. 2004. “Guale.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 238–244. Washington: Smithsonian Institution.
+- Worth, John E. 2004. “Yamasee.” In *Handbook of North American Indians*, vol. 14, *Southeast*, edited by Raymond D. Fogelson, 245–253. Washington: Smithsonian Institution.
 - Wraxall 1915, cited in Snow 1992, “Disease and Population Decline in the Northeast,” *Disease and Demography in the Americas*.
+- Young, Gloria A., and Michael P. Hoffman. 2001. “Quapaw.” In *Handbook of North American Indians*, vol. 13, *Plains*, part 1, edited by Raymond J. DeMallie, 497–514. Washington: Smithsonian Institution.
+- Zenk, Henry B. 1990. “Alseans.” In *Handbook of North American Indians*, vol. 7, *Northwest Coast*, edited by Wayne Suttles, 568–571. Washington: Smithsonian Institution.
 
-## Territories and places
-
-### Works read directly
+## Geography and historical locations
 
 - Abler, Thomas S., and Elisabeth Tooker. 1978. “Seneca.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 505–517. Washington: Smithsonian Institution.
 - Blau, Harold, Jack Campisi, and Elisabeth Tooker. 1978. “Onondaga.” In *Handbook of North American Indians*, vol. 15, *Northeast*, edited by Bruce G. Trigger, 491–499. Washington: Smithsonian Institution.
